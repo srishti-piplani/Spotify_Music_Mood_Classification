@@ -1,0 +1,701 @@
+track_title,album_name,artist,release_year,song_length_ms,popularity,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,valence,tempo,time_signature,Mood,decade
+Why,Frankie Avalon,Frankie Avalon,2008-12-01,157718,28,0.408,0.869,0.213,0.0,0.101,-14.843,0.0295,0.643,94.608,4,1,1950
+El Paso,Gunfighter Ballads And Trail Songs,Marty Robbins,1959,259306,63,0.654,0.835,0.452,2.89e-05,0.16,-9.709,0.03,0.691,106.662,3,1,1950
+The Big Hurt,The Big Hurt,Miss Toni Fisher,2014-08-02,134373,0,0.625,0.724,0.576,0.0,0.0992,-8.186,0.0293,0.73,123.896,4,0,1950
+It's Time To Cry,"Paul Anka Sings His Big Ten, Vol. 1",Paul Anka,1992-01-17,145466,29,0.311,0.731,0.314,0.0,0.335,-12.81,0.0325,0.565,109.983,3,1,1950
+Way Down Yonder In New Orleans,Boom Boom Rock 'N' Roll,Freddy Cannon,2008-01-01,151600,22,0.278,0.471,0.809,0.0,0.198,-6.068,0.057,0.822,142.635,4,0,1950
+Heartaches By The Number,20 Greatest Hits,Guy Mitchell,1995-01-01,154295,48,0.584,0.463,0.589,1.53e-05,0.069,-11.203,0.0718,0.842,172.484,4,0,1950
+Among My Souvenirs,Gold,Connie Francis,2005-01-01,151280,0,0.472,0.414,0.483,6.88e-06,0.193,-6.218,0.0268,0.473,108.25,3,1,1950
+Mack the Knife,The Ultimate Bobby Darin,Bobby Darin,2004-11-23,184333,53,0.549,0.76,0.529,0.0,0.206,-12.291,0.108,0.464,82.755,4,1,1950
+Hound Dog Man,Fabian Avalon,Frankie Avalon,2011-09-30,119746,7,0.29,0.915,0.125,0.000243,0.0937,-17.262,0.0345,0.277,165.897,5,1,1950
+Pretty Blue Eyes,The Best Of,Steve Lawrence,1961-01-01,114466,41,0.477,0.497,0.507,0.0,0.36,-11.802,0.0328,0.864,126.419,4,0,1950
+Running Bear,Greatest Hits,Johnny Preston,2013-09-01,158200,38,0.772,0.854,0.297,7.59e-06,0.125,-14.679,0.053,0.822,119.987,4,1,1950
+We Got Love,The Best Of Bobby Rydell,Bobby Rydell,2005-10-18,141866,20,0.552,0.66,0.667,0.0,0.1,-7.058,0.039,0.64,131.041,4,0,1950
+Scarlet Ribbons (For Her Hair) (feat. Jim Ed Brown),The Complete Pop & Country Hits,The Browns,2013-08-02,156373,8,0.6,0.947,0.0949,0.0,0.131,-14.659,0.0283,0.288,97.28,3,1,1950
+Lollipop,Famous One Hit Wonders - Back In Time Vol. 2,Various Artists,2013-07-20,144693,0,0.707,0.698,0.42,0.0044,0.202,-10.222,0.0395,0.596,112.556,4,1,1950
+Sandy,Rubber Biscuit: Essential ‘50s Hits,Various Artists,2017-02-10,145026,0,0.633,0.47,0.484,0.000141,0.1,-8.507,0.0269,0.814,80.543,4,0,1950
+So Many Ways,Brook Benton - The Best of Brook Benton,Brook Benton,2016-03-25,147095,10,0.54,0.748,0.34,7.81e-06,0.128,-12.654,0.0394,0.629,117.631,4,1,1950
+"Go, Jimmy, Go",Pop Megahits Of The 1950's - Volume 2,Various Artists,2005,126426,15,0.684,0.435,0.374,0.0,0.131,-12.037,0.0358,0.846,142.815,4,0,1950
+This Friendly World,Fabian Avalon,Frankie Avalon,2011-09-30,174120,4,0.35,0.948,0.0721,0.0,0.108,-20.681,0.0346,0.362,115.252,3,1,1950
+Don't You Know?,A Bronx Tale - Music From The Motion Picture,Various Artists,1993-09-28,151706,35,0.149,0.799,0.367,0.0,0.0996,-13.011,0.0347,0.374,170.558,1,1,1950
+Mr. Blue,Come Softly To Me: The Very Best Of The Fleetwoods,The Fleetwoods,1993-01-01,145133,59,0.374,0.931,0.0889,6.88e-06,0.111,-17.475,0.0356,0.211,96.677,4,1,1950
+Smokie Part 2,Bill Black's Combo,Bill Black's Combo,2003-01-01,142733,13,0.769,0.314,0.273,0.952,0.0911,-9.071,0.0425,0.763,117.883,4,2,1950
+Be My Guest,HMV Easy: The Fats Domino Collection,Fats Domino,2002-01-01,123386,0,0.637,0.627,0.537,0.0,0.0885,-7.975,0.0441,0.947,144.922,4,2,1950
+Oh! Carol,All Time Greatest Hits,Neil Sedaka,1983-03-28,136200,48,0.58,0.761,0.622,1.09e-05,0.362,-13.001,0.04,0.825,132.685,4,0,1950
+I Wanna Be Loved - Remastered,Greatest Love Songs,Ricky Nelson,2008,165320,12,0.669,0.645,0.443,0.0,0.059,-5.996,0.0294,0.475,111.666,4,1,1950
+You Got What It Takes,United Artists Black Singles 1959-1967: ''Motor City To Central Park'',Various Artists,2009-01-23,163386,0,0.697,0.752,0.597,0.0,0.337,-13.186,0.103,0.959,136.397,4,0,1950
+The Village Of St Bernadette,Best Of Andy Williams,Andy Williams,1991-02-19,203600,11,0.235,0.912,0.198,1.63e-06,0.25,-14.609,0.03,0.229,87.256,3,1,1950
+Not One Minute More,Whatever Lola Wants,Della Reese,2016-05-30,158360,13,0.348,0.835,0.467,0.000437,0.124,-6.346,0.0329,0.258,122.738,4,1,1950
+Danny Boy,Great Sax,Sil Austin,1995-01-01,171760,7,0.253,0.383,0.365,0.891,0.127,-11.87,0.029,0.38,68.646,3,1,1950
+Misty,Johnny Mathis Gold: A 50th Anniversary Celebration,Johnny Mathis,1956,214293,0,0.26,0.919,0.319,0.00498,0.193,-11.264,0.0316,0.194,87.727,4,1,1950
+Dance with Me,All-Time Greatest Hits & More 1959-1965,The Drifters,1988-11-15,145546,29,0.426,0.351,0.44,0.0,0.154,-8.119,0.0296,0.537,131.348,4,0,1950
+Just As Much As Ever,Just As Much As Ever,Bob Beckham,2012-11-20,143394,0,0.569,0.827,0.351,0.0,0.322,-9.087,0.0267,0.5,84.942,4,1,1950
+God Bless America,The Very Best Of Connie Francis Vol.2,Connie Francis,1987-11-23,168866,0,0.275,0.47,0.303,0.00552,0.143,-12.172,0.0335,0.61,186.406,3,1,1950
+Always,Paradise,Sammy Turner,2010-04-20,128320,0,0.665,0.883,0.315,0.81,0.141,-13.873,0.0355,0.779,108.775,4,2,1950
+Talk That Talk,The Ultimate Jackie Wilson,Jackie Wilson,2006,132946,15,0.63,0.629,0.666,0.0,0.897,-5.444,0.051,0.873,143.998,4,0,1950
+Reveille Rock,Rock 'N' Roll Legend: Johnny And The Hurricanes,Johnny & The Hurricanes,2008-01-01,140813,18,0.459,0.0779,0.746,0.0545,0.584,-14.327,0.0375,0.963,93.3,4,0,1950
+Mighty Good - 1990 Digital Remaster,The Legendary Masters Series (Volume 1),Ricky Nelson,1990-01-01,140160,4,0.562,0.211,0.663,0.0,0.326,-11.33,0.0474,0.928,81.253,4,0,1950
+The Clouds,The Clouds / The Lonely Jet Pilot (Digital 45),The Spacemen,2013-10-29,164571,0,0.815,0.202,0.818,0.591,0.0773,-6.924,0.0409,0.891,104.489,4,2,1950
+Believe Me,Forever Doowop,Various Artists,2010-10-07,154333,0,0.48,0.895,0.452,0.0759,0.17,-10.077,0.0286,0.637,76.815,4,1,1950
+Swingin' On A Rainbow,Beach Party,Frankie Avalon,2013-12-04,116213,6,0.587,0.648,0.43,0.0,0.138,-9.375,0.0314,0.96,76.615,4,0,1950
+How About That,Rain Drops,Dee Clark,1993-01-01,161230,2,0.593,0.719,0.252,0.0,0.431,-15.847,0.0637,0.861,149.811,4,0,1950
+Teen Angel,Pop Megahits Of The 1950's Vol. 1,Various Artists,2005,159893,31,0.57,0.936,0.0636,0.0,0.122,-18.548,0.0459,0.282,101.517,4,1,1950
+What About Us,Coast Along With The Coasters,The Coasters,2005-02-08,171533,12,0.666,0.589,0.488,3.95e-05,0.0522,-15.711,0.0463,0.962,147.255,4,0,1950
+A Year Ago Tonight - Stereo,For Collectors Only,Johnny Maestro,1993,147200,6,0.697,0.802,0.439,0.0,0.225,-12.188,0.0614,0.805,143.508,4,1,1950
+High School USA (National Version),Rubber Biscuit: Essential ‘50s Hits,Various Artists,2017-02-10,132733,0,0.715,0.305,0.683,0.0,0.478,-9.742,0.13,0.887,116.027,4,0,1950
+"(If You Cry) True Love, True Love - Single Version",Up on the Roof: The Best of the Drifters,The Drifters,2005-02-08,141426,14,0.511,0.67,0.236,0.0,0.0953,-14.496,0.043,0.196,141.222,4,1,1950
+Happy Anniversary,The Singles Collection 1952-62,The Four Lads,2018-02-09,175520,0,0.303,0.84,0.475,8.79e-06,0.313,-8.79,0.0293,0.445,101.718,4,1,1950
+He'll Have to Go,The Essential Jim Reeves,Jim Reeves,1997-02-14,138640,56,0.554,0.909,0.186,0.00144,0.11,-15.846,0.0379,0.2,81.181,3,1,1950
+White Christmas,Holiday Inn (Original Motion Picture Soundtrack),Bing Crosby,1942-01-01,177480,55,0.317,0.673,0.158,0.353,0.338,-16.485,0.0381,0.247,130.503,3,1,1950
+Mary Don't You Weep,Best of Stonewall Jackson,Stonewall Jackson,2014-07-11,146146,6,0.628,0.419,0.627,0.0,0.135,-8.418,0.028,0.905,134.487,4,0,1950
+If I Had a Girl,One More Time: Rarely Heard Hits,Various Artists,2016-09-23,130946,0,0.394,0.726,0.355,0.000171,0.201,-12.773,0.0439,0.568,123.288,4,1,1950
+Lollipop,Famous One Hit Wonders - Back In Time Vol. 2,Various Artists,2013-07-20,144693,0,0.707,0.698,0.42,0.0044,0.202,-10.222,0.0395,0.596,112.556,4,1,1950
+No Love Have I,The Collection '52-'60,Webb Pierce,2014-06-16,146826,0,0.651,0.75,0.615,0.00482,0.1,-10.137,0.0356,0.807,132.022,4,0,1950
+Deck Of Cards,"Winking At Life: God, Country, Mom & Apple Pie",Wink Martindale,2000-01-01,240880,22,0.49,0.871,0.376,4.1e-06,0.121,-16.06,0.618,0.672,170.841,3,1,1950
+Do-Re-Mi,Greatest Hits,Mitch Miller,1950,125973,4,0.625,0.872,0.732,0.000824,0.208,-8.734,0.0435,0.805,115.326,4,0,1950
+Love Potion No. 9,United Artists Black Singles 1959-1967: ''Motor City To Central Park'',Various Artists,2009-01-23,112200,0,0.71,0.811,0.712,0.0,0.109,-6.299,0.0515,0.911,128.758,4,2,1950
+Where Or When,The Best Of Dion & The Belmonts,Dion & The Belmonts,2005-01-01,157800,28,0.444,0.796,0.267,0.0,0.127,-11.644,0.0282,0.455,110.661,3,1,1950
+Let's Try Again,Lover Please/The Complete MGM & Mercury Singles,Clyde McPhatter,2010-01-01,148866,5,0.705,0.751,0.349,0.0,0.0764,-12.055,0.136,0.93,147.248,4,1,1950
+Just One More Chance,The Essential Collection,Rod Bernard,1997-11-25,167826,1,0.74,0.645,0.481,0.000136,0.128,-11.406,0.037,0.849,136.077,4,0,1950
+"Shimmy, Shimmy, Ko-Ko-Bop",Greatest Hits,Little Anthony & The Imperials,2005-09-20,130573,38,0.7,0.638,0.447,0.0,0.233,-12.969,0.0502,0.826,116.08,4,0,1950
+This Time of the Year,Christmas Music 100 Hits,Various Artists,2015-10-28,145933,8,0.3,0.893,0.223,1.92e-05,0.092,-11.654,0.0296,0.124,67.323,4,1,1950
+Down By the Station,Down By the Station,The Four Preps,2007-11-27,172066,22,0.754,0.324,0.442,0.0,0.0634,-15.178,0.0403,0.971,118.641,4,0,1950
+Unforgettable,The Collection,Dinah Washington,2014-05-09,162866,0,0.308,0.728,0.299,0.0028,0.457,-12.86,0.0339,0.195,93.261,3,1,1950
+"Climb Ev'ry Mountain (From ""The Sound Of Music"") - Live at Carnegie Hall, New York, NY - June 1962",Tony Bennett At Carnegie Hall - The Complete Concert,Tony Bennett,1962,132106,3,0.279,0.878,0.152,5.95e-06,0.986,-19.859,0.063,0.331,118.911,4,1,1950
+Run Red Run,Coast Along With The Coasters,The Coasters,2005-02-08,182933,22,0.655,0.474,0.541,0.0,0.123,-15.497,0.202,0.798,145.198,4,0,1950
+Beyond The Sunset,I Remember Red - My Tribute To Red Foley,Pat Boone,1994-01-01,175280,2,0.293,0.624,0.144,6.04e-05,0.123,-21.792,0.0388,0.418,145.033,3,1,1950
+Put Your Head On My Shoulder,Put Your Head On My Shoulder: The Very Best Of Paul Anka,Paul Anka,2000-10-03,154733,73,0.547,0.747,0.335,0.0,0.101,-9.2,0.0307,0.474,115.838,3,1,1950
+Handy Man,Soul Hits Of The 60's,Various Artists,1993-01-01,126560,3,0.538,0.716,0.69,0.0,0.192,-9.509,0.0484,0.761,73.389,4,2,1950
+Lonely Blue Boy - Single Version,Gold,Conway Twitty,2006-01-01,133066,25,0.665,0.702,0.296,0.000172,0.127,-14.353,0.0427,0.629,112.792,3,1,1950
+Sweet Nothin's,Brenda Lee,Brenda Lee,1960-08-01,144600,50,0.778,0.642,0.413,0.00104,0.148,-10.551,0.0514,0.961,125.235,4,0,1950
+Honey Hush,Big Joe Turner: The Rhythm & Blues Years,Big Joe Turner,2005-04-19,162946,28,0.472,0.586,0.592,0.0,0.125,-7.532,0.0681,0.671,169.218,4,0,1950
+Smooth Operator,Golden Hits - Sarah Vaughan,Sarah Vaughan,1990-01-01,140240,0,0.648,0.839,0.519,2.25e-05,0.195,-10.521,0.049,0.725,121.737,4,0,1950
+Little Things Mean a Lot,The Best of Joni James,Joni James,2014-10-20,152360,23,0.288,0.338,0.539,0.0,0.116,-8.253,0.032,0.556,113.129,4,0,1950
+Tiny Tim,"The Complete Singles As & BS 1949-62, Vol. 2",LaVern Baker,2015-04-13,140906,5,0.756,0.533,0.498,0.0,0.403,-11.174,0.325,0.806,138.365,4,0,1950
+We Told You Not to Marry,The Golden Age of Rock ’n’ Roll Radio,Various Artists,2017-03-24,136306,0,0.572,0.859,0.538,0.0,0.166,-6.473,0.0434,0.882,142.523,4,0,1950
+Talk To Me,Frank Sinatra: The Complete Capitol Singles Collection,Frank Sinatra,1996-01-01,182040,13,0.228,0.812,0.046,0.0,0.181,-22.602,0.0357,0.19,90.57,3,1,1950
+Harlem Nocturne - Single Version,Harlem Nocturne,The Viscounts,1965-04-08,143386,29,0.357,0.801,0.321,0.626,0.113,-14.848,0.0397,0.47,165.689,4,1,1950
+Darling Lorraine,Goodies Old Is New: Rare Singles From The Golden Age of Rock and Roll,Rare Singles From The Golden Age of Rock and Roll,2004-03-15,121443,18,0.531,0.876,0.298,0.000447,0.139,-12.216,0.0265,0.539,107.521,3,1,1950
+Lonely Street,Best Of Andy Williams,Andy Williams,1991-02-19,166493,14,0.428,0.95,0.111,0.0115,0.087,-16.501,0.0317,0.389,100.486,3,1,1950
+You Were Mine,The Great Rhythm & Blues Groups,Various Artists,2017-01-30,115147,24,0.608,0.799,0.368,0.0469,0.476,-8.989,0.0264,0.662,111.019,3,0,1950
+I've Been Around,They Call Me The Fat Man (The Legendary Imperial Recordings),Fats Domino,2016-01-01,131066,8,0.751,0.249,0.381,0.00704,0.137,-14.239,0.0351,0.928,87.974,4,0,1950
+Goodnight My Love (Pleasant Dreams),Tell Laura I Love Her,Ray Peterson,2011-01-01,160866,3,0.412,0.725,0.36,0.000314,0.422,-12.192,0.029,0.506,107.597,3,1,1950
+Woo-Hoo,Pecker,Original Soundtrack,1998-09-29,129586,35,0.586,0.764,0.784,0.565,0.115,-12.678,0.0433,0.802,115.062,4,2,1950
+Living Doll - 2003 Remaster,75 at 75,Cliff Richard,2015-09-18,156773,13,0.763,0.539,0.468,0.0,0.1,-7.492,0.0381,0.771,127.251,4,1,1950
+If I Give My Heart to You - Single Version,If I Give My Heart to You,Kitty Kallen,1960,166866,29,0.247,0.873,0.221,1.12e-06,0.192,-15.103,0.0322,0.397,99.563,4,1,1950
+Torquay,Clovis Classics: The Definitive Collection,The Fireballs,2009-10-01,116360,0,0.639,0.12,0.865,0.858,0.119,-10.253,0.0392,0.969,157.64,4,2,1950
+Midnight Stroll,Songs That Made Us Laugh,Various Artists,2018-07-27,156120,0,0.336,0.77,0.497,0.0,0.328,-7.942,0.0345,0.625,74.491,4,1,1950
+The Enchanted Sea,The Enchanted Sound of the Islanders,The Islanders,2016-06-28,124013,4,0.465,0.741,0.393,0.891,0.47,-14.277,0.0423,0.324,127.696,3,1,1950
+Battle Hymn of the Republic (Arr. F. Werle and P.J. Wilhousky for Choir & Wind Ensemble) - Voice,An American Tribute,"The Mormon Tabernacle Choir, The United States Air Force Band, The Singing Sergeants",1986-06-03,771600,0,0.389,0.953,0.142,2.4e-06,0.742,-24.31,0.0846,0.152,108.867,4,1,1950
+Teen Beat' 65,The Very Best Of Sandy Nelson,Sandy Nelson,2003-01-01,159426,10,0.439,0.00612,0.961,0.882,0.352,-9.381,0.0559,0.722,102.43,4,2,1950
+Candy Apple Red,Bonnie Guitar EP,Bonnie Guitar,1960,144533,8,0.396,0.959,0.0534,0.669,0.107,-22.341,0.0311,0.373,62.926,4,1,1950
+Just To Be With You,The Best Of Laurie Records,Various Artists,2016-03-01,144373,32,0.489,0.656,0.227,0.0,0.204,-13.105,0.0315,0.575,114.303,3,1,1950
+"The Best of Everything - From the 20th Century Fox Film ""The Best of Everything""",The Music Of Johnny Mathis: A Personal Collection,Johnny Mathis,1972,163626,0,0.242,0.845,0.421,0.0,0.0911,-11.02,0.0349,0.263,79.675,4,1,1950
+Symphony,Paradise,Sammy Turner,2010-04-20,154933,0,0.554,0.918,0.279,0.0026,0.173,-14.962,0.0362,0.603,107.007,4,1,1950
+Teach Me Tiger,Ultra-Lounge/Cocktail Capers,Various Artists,1996-01-01,143200,30,0.587,0.484,0.16,6.01e-05,0.134,-18.767,0.0548,0.568,116.263,4,1,1950
+Shadows,For Collectors Only,The Five Satins,1993,157293,25,0.515,0.817,0.312,0.000669,0.164,-10.504,0.0262,0.618,98.372,3,1,1950
+Just Ask Your Heart,Collection 1954-62,Frankie Avalon,2018-06-08,146746,4,0.456,0.645,0.559,0.0,0.173,-9.081,0.0285,0.676,88.694,4,0,1950
+Ebb Tide,The Best of Bobby Freeman,Bobby Freeman,1958-06-11,151360,0,0.382,0.94,0.113,4.12e-05,0.247,-17.63,0.0311,0.144,107.251,3,1,1950
+Poison Ivy,Rhino Hi-Five: The Coasters,The Coasters,2005-12-20,164320,45,0.75,0.381,0.586,0.0,0.142,-8.985,0.0706,0.972,137.194,4,0,1950
+Say Boss Man,Bo Diddley - Jukebox Hero,Bo Diddley,2014-11-21,157173,0,0.874,0.699,0.415,0.0078,0.162,-8.526,0.0456,0.709,143.848,4,1,1950
+Pretend,Like Mann,Carl Mann,1975-01-01,156395,22,0.627,0.752,0.709,2.37e-05,0.19,-5.553,0.044,0.878,88.346,4,2,1950
+Someday We'll Be Together,Cream Of The Crop,Diana Ross & The Supremes,1969-11-03,211666,56,0.678,0.14,0.535,2.17e-06,0.0596,-12.454,0.0329,0.795,107.041,4,0,1960
+Leaving on a Jet Plane,Album 1700,"Peter, Paul and Mary",1967-10-31,207240,62,0.414,0.804,0.167,0.0,0.117,-16.519,0.0484,0.384,133.45,4,1,1960
+"Raindrops Keep Fallin' On My Head - From ""Butch Cassidy And The Sundance Kid"" Soundtrack",Butch Cassidy And The Sundance Kid (Original Motion Picture Soundtrack),Burt Bacharach,1969-01-01,182666,0,0.63,0.807,0.266,0.00832,0.0826,-19.045,0.0525,0.665,108.515,4,1,1960
+Na Na Hey Hey Kiss Him Goodbye,All-Star Sports Jams,Various Artists,2008-01-01,247173,44,0.637,0.0139,0.916,2.24e-05,0.21,-6.95,0.0458,0.506,114.987,4,0,1960
+Holly Holy - Single Version,"Touching You, Touching Me",Neil Diamond,1969,280306,0,0.287,0.661,0.314,0.000418,0.127,-14.154,0.0283,0.387,103.414,4,1,1960
+I Want You Back,Anthology: Jackson 5,The Jackson 5,2000-01-01,179226,62,0.67,0.439,0.584,0.00614,0.178,-8.325,0.034,0.944,98.185,4,0,1960
+Whole Lotta Love - 1990 Remaster,Led Zeppelin II (1994 Remaster),Led Zeppelin,1969-10-22,333893,78,0.412,0.0484,0.902,0.131,0.405,-11.6,0.405,0.422,89.74,4,2,1960
+"Take a Letter, Maria",R.B. Greaves,R.B. Greaves,1969,164520,49,0.582,0.636,0.5,9.71e-06,0.134,-11.647,0.0459,0.971,160.414,4,2,1960
+Midnight Cowboy,All-Time Great Movie Themes,Ferrante & Teicher,1993-02-09,199200,37,0.275,0.108,0.5,0.902,0.144,-12.276,0.03,0.288,160.002,3,1,1960
+Eli's Coming,The Best Of 3 Dog Night,Three Dog Night,1982-01-01,160146,38,0.303,0.332,0.643,1.92e-05,0.168,-11.326,0.079,0.472,169.237,4,1,1960
+"Yester-Me, Yester-You, Yesterday",My Cherie Amour,Stevie Wonder,1969-08-01,185293,55,0.604,0.0311,0.357,0.0,0.0927,-11.419,0.0269,0.638,100.721,4,1,1960
+And When I Die,"Blood, Sweat & Tears","Blood, Sweat & Tears",1968-12,242733,0,0.615,0.53,0.3,0.000954,0.0864,-16.973,0.127,0.566,128.061,4,0,1960
+These Eyes,The Best Of The Guess Who,The Guess Who,1971,225400,49,0.545,0.541,0.35,2.18e-05,0.122,-13.155,0.0264,0.736,96.239,4,0,1960
+Friendship Train,Nitty Gritty,Gladys Knight & The Pips,1969,230160,0,0.674,0.53,0.804,0.0,0.131,-7.242,0.0427,0.961,130.63,4,2,1960
+Backfield In Motion,Good Guys Only Win In The Movies,Mel & Tim,1996,154560,0,0.685,0.703,0.721,0.0,0.278,-5.763,0.0426,0.951,122.567,4,2,1960
+Venus,The Very Best Of Shocking Blue (Part One - The A Sides),Shocking Blue,2011-02-02,187533,52,0.691,0.462,0.762,0.0286,0.0804,-6.47,0.0367,0.957,128.111,4,2,1960
+Jam Up And Jelly Tight,Greatest Hits - The Original ABC Hit Recordings,Tommy Roe,1993-01-01,142733,16,0.739,0.139,0.685,4.63e-05,0.0566,-8.808,0.0382,0.755,121.062,4,0,1960
+Cherry Hill Park,The Best of Billy Joe Royal,Billy Joe Royal,1985-01-23,180320,35,0.614,0.609,0.501,0.0,0.123,-9.511,0.0422,0.896,125.727,4,0,1960
+"Jingle, Jangle",Absolutely The Best Of The Archies,The Archies,1969,162480,8,0.643,0.0426,0.614,0.0,0.153,-7.275,0.0336,0.65,109.08,4,0,1960
+Smile a Little Smile for Me (US Radio Version),Love Is All Around: Lite Pop of The '70s,Various Artists,2016-12-23,181360,0,0.686,0.19,0.516,0.0,0.0759,-8.575,0.0373,0.408,92.052,4,0,1960
+"Baby, I'm For Real",Superstar Series - Celebrating Motown's Twentieth Anniversary,The Originals,1976-01-01,198706,41,0.328,0.502,0.251,0.0,0.132,-12.413,0.03,0.392,150.414,3,1,1960
+Up On Cripple Creek - Remastered 2000,The Band (Expanded Edition),The Band,1969-09-22,274893,3,0.72,0.226,0.716,0.00335,0.0932,-8.773,0.0723,0.953,144.376,4,0,1960
+Brand New Me,A Brand New Me,Dusty Springfield,1970-01-15,149706,19,0.448,0.61,0.41,0.0,0.116,-12.63,0.0682,0.703,128.416,4,0,1960
+Evil Woman Don't Play Your Games With Me,Before The Storm,Crow,2008-02-25,229213,9,0.625,0.0288,0.744,0.00134,0.287,-6.506,0.0867,0.906,133.792,4,0,1960
+Wedding Bell Blues - Remastered 2000,The Age Of Aquarius,The 5th Dimension,1969,164600,52,0.481,0.548,0.673,0.0,0.135,-5.41,0.0321,0.615,118.051,4,1,1960
+Early In The Morning,Vanity Fare - Hitchin' A Ride (The Original Hits),Vanity Fare,2011-09-29,164546,35,0.55,0.499,0.674,0.0,0.0933,-6.87,0.0344,0.88,173.9,4,0,1960
+Heaven Knows,20th Century Masters: The Millennium Collection: Best Of The Grass Roots,The Grass Roots,2001-01-01,146826,22,0.687,0.135,0.588,0.000234,0.0572,-9.744,0.0334,0.956,125.808,4,0,1960
+Eleanor Rigby - Remastered 2009,Revolver (Remastered),The Beatles,1966-08-05,126533,70,0.581,0.936,0.28,1.56e-05,0.305,-9.091,0.0381,0.813,137.831,4,1,1960
+Cold Turkey - Single Version / Remastered 2010,Power To The People - The Hits,John Lennon,2010-10-04,304240,0,0.628,0.0059,0.556,0.0277,0.0762,-12.146,0.181,0.45,115.02,4,0,1960
+She - Single Version,The Essentials: Tommy James & The Shondells,Tommy James & The Shondells,2002-06-04,123893,14,0.317,0.767,0.535,1.69e-05,0.331,-10.785,0.0398,0.859,168.961,4,0,1960
+Sunday Mornin',The Best Of Spanky & Our Gang 20th Century Masters The Millennium Collection,Spanky & Our Gang,2005-01-01,233066,10,0.296,0.769,0.554,0.00297,0.205,-8.353,0.0322,0.412,98.691,4,1,1960
+Going In Circles,Grazin',The Friends Of Distinction,1969-03-26,252280,47,0.385,0.809,0.339,0.0,0.307,-10.413,0.0373,0.278,117.449,3,1,1960
+"Wonderful World, Beautiful People - Single Version",Best Of / 20th Century Masters,Jimmy Cliff,2004-04-20,193480,44,0.783,0.0078,0.478,0.0,0.0617,-11.305,0.0271,0.859,105.85,4,0,1960
+Point It Out,A Pocket Full Of Miracles,Smokey Robinson & The Miracles,1970-01-01,155853,12,0.418,0.58,0.456,0.0,0.15,-9.309,0.0294,0.89,180.184,4,0,1960
+Winter World Of Love,Engelbert Humperdinck: 50,Engelbert Humperdinck,2017-05-19,199626,21,0.212,0.851,0.343,3.27e-06,0.0908,-12.432,0.0323,0.231,179.538,4,1,1960
+Okie From Muskogee - Live At The Philadelphia Civic Center/1970,The Fightin' Side Of Me (Live),Merle Haggard & The Strangers,1970-01-01,209960,37,0.575,0.646,0.638,2.29e-06,0.437,-7.418,0.244,0.774,137.616,4,0,1960
+Cupid,The Man Who Invented Soul,Sam Cooke,2000-09-26,154866,46,0.469,0.843,0.393,0.0,0.168,-9.968,0.0348,0.601,120.066,4,1,1960
+Don't Let Love Hang You Up,Essential Jerry Butler,Jerry Butler,1997-01-01,149533,0,0.742,0.214,0.598,0.0,0.179,-11.434,0.0473,0.953,120.001,4,0,1960
+Don't Let Him Take Your Love From Me - Single Version (Mono),50th Anniversary | The Singles Collection | 1964-1972,Four Tops,2013-01-01,157946,0,0.713,0.323,0.861,0.0,0.0992,-5.554,0.0564,0.947,105.985,4,2,1960
+Arizona,Arizona,Mark Lindsay,1970-03-04,188133,42,0.479,0.225,0.453,0.00038,0.143,-12.806,0.0472,0.756,81.18,4,0,1960
+Kozmic Blues,Janis Joplin: The Woodstock Experience,Janis Joplin,2009-06-30,262000,47,0.335,0.709,0.624,0.325,0.575,-8.204,0.0472,0.511,178.415,3,1,1960
+(It Looks Like) I'll Never Fall In Love Again,The Best Of Tom Jones - 20th Century Masters: The Millennium Collection,Tom Jones,2000-02-08,250626,0,0.321,0.761,0.35,6.2e-05,0.109,-11.428,0.0287,0.365,146.987,3,1,1960
+Fancy,Fancy,Bobbie Gentry,1970-05-01,258912,44,0.618,0.502,0.243,0.0,0.102,-19.003,0.0848,0.556,104.373,4,1,1960
+Walkin' In The Rain,Come A Little Bit Closer: The Best Of Jay & The Americans,Jay & The Americans,1964,167293,22,0.518,0.326,0.466,1.11e-06,0.174,-13.555,0.0325,0.642,114.303,4,1,1960
+She Belongs To Me,The Best Of Rick Nelson - 1963 To 1975,Ricky Nelson,1990-01-01,182400,10,0.628,0.311,0.199,0.183,0.112,-20.337,0.027,0.614,100.943,4,1,1960
+I'll Hold Out My Hand,The Clique,The Clique,1998-01-01,157466,6,0.568,0.509,0.724,0.0,0.179,-8.443,0.0276,0.876,102.206,4,0,1960
+She Came In Through The Bathroom Window,Joe Cocker!,Joe Cocker,1969-11,156373,0,0.585,0.446,0.58,6.17e-06,0.102,-9.356,0.0273,0.692,88.481,4,0,1960
+Midnight,Johnny Gibson,Johnny Gibson,2009-08-25,142080,2,0.616,0.856,0.796,0.946,0.321,-8.974,0.0341,0.962,140.501,4,2,1960
+One Tin Soldier - Theme from Billy Jack,One Tin Soldier (Theme from Billy Jack) - Single,The Original Caste,2013-01-30,218026,42,0.375,0.361,0.605,0.0,0.241,-6.871,0.0513,0.459,164.88,4,0,1960
+Volunteers - Remastered,Volunteers,Jefferson Airplane,2004-06-18,123453,46,0.501,0.505,0.825,2.2e-05,0.361,-7.503,0.0346,0.814,106.923,4,0,1960
+I'm So Glad I Fell For You,The Ultimate Collection: David Ruffin,David Ruffin,1998-01-01,186973,10,0.291,0.182,0.541,0.103,0.355,-7.993,0.0411,0.645,185.039,3,0,1960
+No Time,The Best Of The Guess Who,The Guess Who,1971,219426,42,0.484,0.0795,0.477,5.09e-06,0.0548,-13.849,0.0598,0.122,128.265,4,1,1960
+Monster/Suicide/America,Monster,Steppenwolf,1969,556426,0,0.411,0.155,0.541,3.68e-05,0.113,-12.341,0.0454,0.375,111.463,4,1,1960
+Tonight I'll Say a Prayer,The Hits of Steve Lawrence & Eydie Gorme,Steve Lawrence,2011-09-01,199038,2,0.248,0.57,0.364,0.0,0.178,-11.606,0.0367,0.288,201.495,3,1,1960
+Hey There Lonely Girl,I Love You,Eddie Holman,1969-01-01,216760,47,0.389,0.693,0.322,2.08e-06,0.0814,-10.923,0.0282,0.343,94.007,3,1,1960
+I'm Tired - Where Am I,A Step Further,Savoy Brown,1969-01-01,305200,0,0.627,0.725,0.257,0.00538,0.107,-16.129,0.043,0.263,109.335,4,1,1960
+Do I Love You (Indeed I Do),"The Complete Motown Singles, Volume 5: 1965",Various Artists,2006-01-01,152160,0,0.55,0.287,0.937,1.35e-05,0.263,-1.866,0.0556,0.762,133.536,4,0,1960
+Love Bones,Chronicle: The 20 Greatest Hits,Johnnie Taylor,1977-01-01,245626,8,0.505,0.723,0.338,2.68e-05,0.0635,-17.295,0.0539,0.942,207.553,4,0,1960
+Lady-O - Remastered,All the Singles,The Turtles,2016-08-19,172293,11,0.238,0.8,0.139,0.022,0.114,-14.901,0.0322,0.186,92.408,4,1,1960
+Is It Because I'm Black,Is It Because I'm Black,Syl Johnson,1969-01-01,454853,48,0.755,0.33,0.528,0.0,0.142,-8.946,0.072,0.883,135.104,4,0,1960
+Look-Ka Py Py,The Essentials: The Meters,The Meters,2005-03-29,198333,22,0.677,0.112,0.822,0.306,0.44,-12.367,0.0847,0.929,174.466,4,0,1960
+Together,Gold,Connie Francis,2005-01-01,173573,0,0.324,0.91,0.316,0.0075,0.135,-11.163,0.0336,0.265,116.339,3,1,1960
+Six White Horses,Six White Horses,Tommy Cash,1970-03-04,170080,34,0.585,0.793,0.455,0.000132,0.135,-11.542,0.0392,0.513,83.323,4,1,1960
+Come Saturday Morning,Come Saturday Morning,The Sandpipers,1970-08-31,185800,36,0.168,0.265,0.593,0.00121,0.189,-10.781,0.0387,0.718,155.247,3,0,1960
+"To Be Young, Gifted and Black - 2005 Remix","Forever Young, Gifted And Black: Songs Of Freedom And Spirit",Nina Simone,2006-01-16,169840,45,0.563,0.625,0.341,0.000249,0.137,-8.445,0.0309,0.712,79.148,3,0,1960
+Bold Soul Sister,Sing The Blues,Ike & Tina Turner,2008-10-21,152466,0,0.697,0.56,0.765,5.68e-05,0.186,-8.945,0.0357,0.951,94.83,4,2,1960
+I'm Gonna Love You,The Best of Super Rare Soul,Various Artists,2013-05-21,133486,10,0.555,0.809,0.824,0.0,0.648,-8.175,0.0446,0.946,129.758,4,0,1960
+Voodoo Woman - 1991 Digital Remaster,Honey - The Best of Bobby Goldsboro,Bobby Goldsboro,1991,134640,0,0.688,0.399,0.637,0.0,0.225,-11.626,0.0902,0.726,108.101,4,0,1960
+A World Without Music,There's Gonna Be A Showdown,Archie Bell & The Drells,1969,137013,3,0.798,0.283,0.712,9.26e-06,0.377,-6.16,0.0972,0.914,124.767,4,0,1960
+"He Ain't Heavy, He's My Brother",Super Hits,The Hollies,1967,257839,52,0.309,0.409,0.441,1.73e-05,0.513,-6.524,0.0291,0.217,75.734,4,1,1960
+Theme From Electric Surfboard,Down Home Style,Jack McDuff,1997-01-01,214226,20,0.499,0.29,0.648,0.592,0.111,-5.04,0.0318,0.625,98.367,4,2,1960
+Mr. Limousine Driver - Remastered,Grand Funk (Red Album) [Remastered],Grand Funk Railroad,2002-01-01,267293,30,0.299,0.0137,0.601,0.124,0.257,-8.185,0.0304,0.487,177.442,4,0,1960
+The Gangs Back Again,Kool And The Gang,Kool & The Gang,1970-01-01,164906,15,0.649,0.192,0.754,0.227,0.115,-13.793,0.0525,0.508,105.093,4,0,1960
+Guess Who,Early Winters,Ruby Winters,2009-06-09,182494,1,0.302,0.865,0.351,0.156,0.342,-10.676,0.0523,0.191,185.046,3,1,1960
+The Thrill Is Gone,Deuces Wild,B.B. King,1997-01-01,301133,0,0.693,0.0854,0.489,0.00234,0.131,-9.709,0.0316,0.262,87.085,4,0,1960
+"Sugar, Sugar","The Very Best Of ""The Archies""",The Archies,2007-11-07,167186,67,0.736,0.466,0.871,0.0,0.108,-2.786,0.0278,0.967,122.395,4,2,1960
+Suspicious Minds,From Elvis in Memphis,Elvis Presley,1969-06-17,261279,72,0.487,0.0422,0.382,4.74e-06,0.411,-10.889,0.0309,0.714,116.557,4,0,1960
+Try A Little Kindness,Try A Little Kindness,Glen Campbell,1970-01-01,146293,46,0.323,0.31,0.666,0.0,0.163,-5.925,0.0335,0.734,176.455,4,0,1960
+Undun,The Best Of The Guess Who,The Guess Who,1971,206306,44,0.559,0.442,0.377,2.64e-06,0.298,-15.746,0.0321,0.562,135.652,4,1,1960
+Love Will Find A Way,The Very Best Of Jackie DeShannon,Jackie DeShannon,1996-01-01,159866,4,0.653,0.818,0.376,0.336,0.122,-14.969,0.0357,0.855,114.273,4,1,1960
+Get Rhythm,Johnny Cash at Sun,Johnny Cash,2014-01-15,133120,58,0.914,0.67,0.465,0.0,0.222,-11.406,0.0618,0.932,110.205,4,0,1960
+How I Miss You Baby,The Best Of Bobby Womack - The Soul Years,Bobby Womack,2008-01-01,191093,20,0.641,0.637,0.678,1.06e-05,0.217,-6.609,0.0253,0.645,107.983,4,0,1960
+Baby It's You,20 Greatest Hits,The Shirelles,2005,161440,39,0.646,0.674,0.336,7.91e-05,0.229,-13.976,0.0287,0.728,113.526,4,0,1960
+Reuben James,The Best Of Kenny Rogers: 20th Century Masters The Millennium Collection,Kenny Rogers,2003-01-01,167826,43,0.678,0.796,0.729,4.38e-06,0.182,-7.902,0.0411,0.889,93.027,4,0,1960
+Make Your Own Kind Of Music,Mama's Big Ones',Cass Elliot,1973-01-01,139533,0,0.521,0.595,0.573,4.37e-06,0.326,-12.92,0.0429,0.726,120.984,4,0,1960
+I Guess the Lord Must Be in New York City,Harry,Harry Nilsson,1969,164506,0,0.5,0.502,0.542,0.00671,0.315,-9.241,0.0349,0.839,126.031,4,0,1960
+Crumbs off the Table (Originally Performed by the Glass House) [Karaoke Version],Crumbs off the Table (Originally Performed by the Glass House) [Karaoke Version],Mega Tracks Karaoke Band,2015-07-13,160564,0,0.585,0.00447,0.765,0.653,0.0992,-8.605,0.0291,0.897,173.958,4,2,1960
+Jingo,Santana (Legacy Edition),Santana,1969,261066,44,0.491,0.406,0.482,0.661,0.172,-14.478,0.0641,0.593,126.797,4,1,1960
+Say You Love Me,Check Out Your Mind!,The Impressions,1970,185666,5,0.253,0.393,0.454,2.69e-06,0.0556,-11.041,0.0361,0.541,168.486,3,1,1960
+Tonight I'll Be Staying Here with You,Nashville Skyline,Bob Dylan,1969-04-09,201133,48,0.583,0.376,0.38,0.00685,0.0676,-17.607,0.0482,0.529,81.892,4,1,1960
+Land of 1000 Dances,University Bands: To the Summit,University of Northern Colorado Bands,2007-06-01,81466,13,0.537,0.646,0.66,0.981,0.161,-14.409,0.0304,0.226,85.25,4,2,1960
+Big In Vegas,The Complete Capitol Singles: 1967-1970,Buck Owens & The Buckaroos,2018-05-11,187695,0,0.493,0.28,0.536,0.0,0.334,-9.852,0.0237,0.667,88.925,4,0,1960
+I Can't Get Next To You,Puzzle People,The Temptations,1969-01-01,174933,55,0.693,0.575,0.687,0.0,0.398,-12.909,0.0973,0.699,108.854,4,0,1960
+Any Way That You Want Me,Out of Sight,Liverpool Five,1967-01-01,157840,2,0.399,0.507,0.423,0.0,0.417,-11.484,0.0299,0.472,101.408,1,0,1960
+Ballad of Easy Rider,Ballad Of Easy Rider,The Byrds,1969-11-10,124266,38,0.411,0.66,0.635,0.0519,0.273,-11.645,0.0667,0.755,97.123,4,0,1960
+Je t'aime moi non plus,Jane Birkin & Serge Gainsbourg,Jane Birkin,1969-01-01,261613,41,0.465,0.406,0.419,0.00367,0.165,-12.176,0.0287,0.553,82.453,4,1,1960
+Wichita Lineman - Remastered 2001,Wichita Lineman (Remastered),Glen Campbell,1968,186200,64,0.192,0.326,0.392,0.000199,0.248,-11.667,0.0328,0.391,172.312,4,1,1960
+Feeling Alright,A Tribute To Joe Cocker,Various Artists,2001-11-13,259880,14,0.496,0.208,0.841,3.44e-05,0.0988,-6.286,0.0399,0.785,174.069,4,0,1960
+Tracy (In the Style of the Cuff Links) [Karaoke Version],The Karaoke Channel - Sing Tracy Like the Cuff Links,The Karaoke Channel,2014-11-10,140857,0,0.554,0.0224,0.504,0.0466,0.439,-11.234,0.0277,0.461,130.191,4,0,1960
+Is That All There Is? - Remastered,The Best Of Miss Peggy Lee,Peggy Lee,1998-01-01,259333,34,0.451,0.799,0.0587,0.0,0.0952,-21.635,0.0369,0.396,109.77,4,1,1960
+Please Don't Go - Single Version,Do You Wanna Go Party,KC & The Sunshine Band,1979-05-01,230533,51,0.482,0.00888,0.615,1.78e-06,0.0431,-11.093,0.0398,0.437,96.307,4,0,1970
+Babe,Cornerstone,Styx,1979-01-01,265973,66,0.267,0.527,0.204,0.0,0.0924,-13.714,0.0317,0.0903,169.486,4,1,1970
+Send One Your Love,Number 1's,Stevie Wonder,2007-01-01,243400,0,0.625,0.561,0.505,5.97e-06,0.08,-12.555,0.0798,0.531,72.907,4,0,1970
+Still,All The Great Love Songs,Commodores,1985,224866,45,0.355,0.899,0.0629,0.000631,0.0975,-19.544,0.0338,0.203,124.422,4,1,1970
+Do That To Me One More Time,Make Your Move,Captain & Tennille,1979-01-01,256666,68,0.728,0.563,0.524,0.000131,0.0913,-8.227,0.0255,0.51,90.262,4,1,1970
+You're Only Lonely,You're Only Lonely,JD Souther,1979,228000,50,0.591,0.263,0.514,7.8e-06,0.0797,-10.183,0.0256,0.658,108.975,4,0,1970
+Ladies Night - Single Version,Celebration: The Best Of Kool & The Gang (1979-1987),Kool & The Gang,1994-01-01,209706,0,0.669,0.238,0.6,7.92e-05,0.0613,-12.724,0.131,0.916,111.833,4,0,1970
+Take The Long Way Home - 2010 Remastered,Breakfast In America (Deluxe Edition),Supertramp,1979-03-29,308853,66,0.414,0.22,0.7,0.000721,0.114,-8.838,0.0301,0.37,76.79,4,1,1970
+Rock with You - Single Version,Off the Wall,Michael Jackson,1979-08-10,220626,75,0.808,0.179,0.535,9.91e-05,0.158,-12.521,0.0353,0.848,114.031,4,0,1970
+Cool Change,Greatest Hits,Little River Band,2014-01-01,305893,49,0.38,0.436,0.389,0.0,0.0685,-10.467,0.0272,0.207,131.38,4,1,1970
+We Don't Talk Anymore - 2001 Remaster,Rock 'n' Roll Juvenile,Cliff Richard,1979,257160,58,0.746,0.0014,0.703,0.00414,0.066,-7.853,0.0291,0.733,111.569,4,2,1970
+Head Games,Head Games,Foreigner,1979-09-10,217706,57,0.678,0.0139,0.693,0.0,0.0596,-6.133,0.0249,0.623,107.415,4,0,1970
+Cruisin',The Definitive Collection,Smokey Robinson,2004-01-01,353520,43,0.473,0.216,0.62,0.0,0.352,-6.908,0.029,0.673,168.914,4,0,1970
+Better Love Next Time,Dr. Hook - The Best Of,Dr. Hook,2009-01-01,180266,33,0.759,0.418,0.66,0.0,0.0381,-10.675,0.0543,0.885,102.92,4,0,1970
+The Long Run - 2013 Remaster,The Long Run (2013 Remaster),Eagles,1979,221234,58,0.803,0.139,0.521,0.00899,0.081,-7.775,0.0276,0.969,99.46,4,0,1970
+Jane,Freedom At Point Zero,Jefferson Starship,1979,252200,0,0.589,0.204,0.82,0.0188,0.423,-9.602,0.0369,0.787,117.307,4,0,1970
+I Want You Tonight,20th Century Masters: The Millennium Collection: Best of Pablo Cruise,Pablo Cruise,2001-01-01,330760,15,0.724,0.00855,0.858,0.00105,0.276,-7.995,0.0273,0.905,122.996,4,0,1970
+Heartache Tonight - 2013 Remaster,The Long Run (2013 Remaster),Eagles,1979,265678,62,0.81,0.0778,0.511,0.000226,0.0714,-6.454,0.0409,0.858,113.153,4,0,1970
+This Is It,This Is It (Expanded Edition),Melba Moore,2014-02-14,211853,54,0.731,0.22,0.804,0.0,0.15,-6.62,0.106,0.761,118.933,4,0,1970
+Coward Of The County,Kenny,Kenny Rogers,1979-10-10,258733,62,0.652,0.134,0.433,7.37e-06,0.146,-12.843,0.0588,0.675,91.471,4,1,1970
+I Wanna Be Your Lover,Prince,Prince,1979-10-19,347666,60,0.812,0.0399,0.507,0.0831,0.0671,-8.825,0.0452,0.729,114.832,4,0,1970
+Half The Way,Crystal Gayle: The Hits,Crystal Gayle,2007-01-01,242573,37,0.636,0.641,0.622,0.0,0.0995,-5.348,0.028,0.599,116.332,4,1,1970
+Don't Do Me Like That,Greatest Hits,Tom Petty and the Heartbreakers,2010-01-01,161600,0,0.764,0.131,0.664,1.4e-05,0.0889,-7.868,0.0269,0.962,116.107,4,0,1970
+Wait for Me,X-Static (Expanded Edition),Daryl Hall & John Oates,1979,247800,44,0.59,0.161,0.731,3.07e-06,0.0744,-7.12,0.0303,0.918,175.268,4,0,1970
+Damned If I Do,Eve (Expanded Edition),The Alan Parsons Project,1979-08-27,292840,36,0.556,0.732,0.639,0.00214,0.128,-8.802,0.0382,0.567,134.721,4,1,1970
+Don't Let Go,Commander Cody & His Lost Planet Airmen,Commander Cody and His Lost Planet Airmen,1975,160746,14,0.49,0.407,0.801,1.58e-06,0.0611,-6.374,0.352,0.867,206.257,3,0,1970
+Ships,One Voice,Barry Manilow,1979,248733,46,0.288,0.719,0.356,0.0,0.128,-8.264,0.0309,0.107,125.928,4,1,1970
+Chiquitita,Voulez-Vous,ABBA,1979,327040,33,0.526,0.701,0.555,6.69e-06,0.299,-8.08,0.0338,0.38,84.088,4,1,1970
+"Pop Muzik - Paralyzer 7"" Remix",Pop Muzik - 30th Anniversary Remixes,M,2009-09-04,213400,37,0.858,0.113,0.936,9.43e-06,0.243,-7.324,0.0576,0.889,110.005,4,0,1970
+I Need A Lover,John Cougar,John Mellencamp,1979,336066,41,0.415,0.00443,0.867,0.00332,0.372,-5.362,0.0601,0.833,126.001,4,0,1970
+Deja Vu,Dionne (Expanded Edition),Dionne Warwick,1979-01-01,304986,43,0.593,0.308,0.564,0.000128,0.0676,-12.585,0.0435,0.587,145.623,4,0,1970
+Sara,Greatest Hits,Fleetwood Mac,1988-11-21,382373,62,0.741,0.384,0.388,0.0235,0.0933,-16.693,0.031,0.589,126.819,4,1,1970
+"Yes, I'm Ready (In the Style of Teri Desario & KC) [Performance Track with Demonstration Vocals]","Yes, I'm Ready (In the Style of Teri Desario & KC) [Performance Track with Demonstration Vocals] - Single",Done Again,2012-03-05,206627,16,0.62,0.444,0.433,0.0,0.0879,-12.159,0.0237,0.487,106.562,3,1,1970
+Broken Hearted Me,Anne Murray The Best Of...So Far - 20 Greatest Hits,Anne Murray,1994-01-01,238066,48,0.431,0.262,0.446,2.93e-06,0.134,-8.493,0.0266,0.0876,133.841,4,1,1970
+"Train, Train",Strikes,Blackfoot,1979,216693,56,0.609,0.015,0.807,0.00123,0.37,-8.286,0.0559,0.754,121.768,4,0,1970
+I Still Have Dreams,I Still Have Dreams,Richie Furay,1979-09-29,207520,5,0.734,0.447,0.412,0.000564,0.0727,-11.623,0.0331,0.705,114.872,4,1,1970
+Rotation,Rise,Herb Alpert,1979-09-01,311413,0,0.826,0.237,0.469,0.944,0.0429,-13.957,0.0709,0.475,104.923,4,2,1970
+Love Pains,The Best Of Yvonne Elliman,Yvonne Elliman,1997-01-01,232866,11,0.642,0.0461,0.56,4.51e-06,0.0625,-14.564,0.0311,0.756,117.612,4,0,1970
+Forever Mine,The Essential O'Jays,The O'Jays,2008-06-10,366293,42,0.473,0.299,0.411,0.0,0.136,-12.122,0.0684,0.54,177.413,3,1,1970
+Rapper's Delight,Rhino Hi-Five: The Sugarhill Gang,The Sugarhill Gang,2005-03-15,427360,56,0.9,0.465,0.845,0.0,0.0724,-7.306,0.257,0.914,111.187,4,2,1970
+I'd Rather Leave While I'm In Love,Delta Lady / The Anthology,Rita Coolidge,2004-01-01,204333,0,0.465,0.341,0.535,7.64e-06,0.119,-9.083,0.0305,0.231,131.965,4,1,1970
+Savannah Nights,Everything You've Heard Is True,Tom Johnston,1979-09-07,244160,12,0.808,0.157,0.701,0.0653,0.0312,-10.915,0.0345,0.976,118.47,4,0,1970
+Video Killed The Radio Star,The Age Of Plastic,The Buggles,1980-01-10,253800,65,0.675,0.0852,0.61,0.0188,0.159,-13.811,0.085,0.344,131.037,4,0,1970
+Romeo's Tune,Jack Rabbit Slim,Steve Forbert,1979-12-07,212471,58,0.571,0.404,0.721,0.00961,0.299,-5.645,0.0307,0.733,95.027,4,0,1970
+Mistrusted Love,Mistress,Mistress,1979,235572,2,0.519,0.0552,0.667,1.03e-05,0.18,-9.04,0.0433,0.246,107.549,4,1,1970
+Dim All The Lights,Bad Girls,Donna Summer,1979-04-25,280775,0,0.798,0.0408,0.62,0.000321,0.0993,-14.0,0.0335,0.826,120.518,4,0,1970
+She's in Love with You - 2017 Remaster,Suzi… and Other Four Letter Words (2017 Remaster),Suzi Quatro,1979-04-05,212986,48,0.657,0.0716,0.857,1.52e-05,0.0774,-7.02,0.0456,0.624,125.858,4,2,1970
+Tusk - 2015 Remaster,Tusk (Deluxe Edition),Fleetwood Mac,1979-10-12,217573,61,0.628,0.224,0.779,0.776,0.151,-11.841,0.0831,0.936,180.837,4,2,1970
+You Know That I Love You,Marathon,Santana,1979-09-01,264893,23,0.569,0.0336,0.536,9.17e-05,0.193,-12.977,0.0271,0.675,127.226,4,0,1970
+Do You Love What You Feel,Masterjam,Rufus & Chaka Khan,1979-01-01,269306,47,0.808,0.022,0.773,0.0436,0.654,-11.4,0.0365,0.893,119.944,4,0,1970
+Lonely Eyes,Classic Masters,Robert John,2002,190226,13,0.575,0.135,0.773,0.0,0.116,-6.338,0.0914,0.69,95.405,4,0,1970
+Voices,Dream Police,Cheap Trick,1979-11-21,261066,45,0.259,0.368,0.55,1.63e-06,0.329,-11.353,0.0324,0.64,193.147,4,0,1970
+Since You Been Gone,Head East + Gettin' Lucky,Head East,2005-01-01,181813,0,0.732,0.249,0.804,0.0,0.243,-4.832,0.0436,0.824,129.721,4,0,1970
+Crazy Little Thing Called Love - Remastered 2011,The Game (Deluxe Remastered Version),Queen,1980-06-27,163373,68,0.599,0.714,0.762,4.43e-06,0.35,-6.887,0.0423,0.715,76.961,4,0,1970
+Lost Her In The Sun,Airdream Believer,John Stewart,2005-06-20,230426,0,0.688,0.128,0.708,0.00178,0.113,-8.506,0.0302,0.81,117.023,4,0,1970
+Money,The Dark Side of the Moon,Pink Floyd,1973-03-01,382834,73,0.469,0.0241,0.537,0.00201,0.269,-10.421,0.152,0.783,124.193,1,0,1970
+Move Your Boogie Body,Greatest Hits,The Bar-Kays,2008-04-22,382533,23,0.871,0.354,0.946,0.0124,0.0653,-7.55,0.0453,0.922,113.645,4,2,1970
+Last Train to London,Discovery,Electric Light Orchestra,1979-05-31,270066,69,0.727,0.396,0.537,0.000789,0.349,-9.785,0.0295,0.954,121.493,4,0,1970
+Fool in the Rain - 1990 Remaster,In Through the out Door (1994 Remaster),Led Zeppelin,1979-08-15,372893,64,0.539,0.0866,0.866,0.00414,0.0953,-8.404,0.0483,0.761,130.345,4,0,1970
+Why Me,16 Biggest Hits,Kris Kristofferson,2007,207560,29,0.416,0.643,0.191,1.33e-06,0.116,-13.184,0.026,0.286,82.088,3,1,1970
+September Morn,September Morn,Neil Diamond,1979-12-22,232000,61,0.419,0.628,0.23,5.85e-06,0.222,-17.102,0.0359,0.199,128.892,4,1,1970
+Daydream Believer,Anne Murray The Best Of...So Far - 20 Greatest Hits,Anne Murray,1994-01-01,149293,40,0.593,0.0171,0.538,2.8e-05,0.101,-8.292,0.0256,0.579,126.509,4,0,1970
+Wonderland,Gold,Commodores,2008-01-01,231640,7,0.518,0.183,0.566,3.23e-06,0.353,-8.342,0.0613,0.614,73.257,4,0,1970
+Dirty Water,Dirty Water: The Very Best Of The Inmates,The Inmates,2001-06-01,179866,23,0.532,0.00207,0.723,0.0151,0.0721,-10.201,0.0326,0.7,152.649,4,0,1970
+An American Dream - Remastered 2001,Lost Hits Of The 70's,Various Artists,2012-01-01,211733,16,0.737,0.33,0.559,0.0,0.0772,-9.384,0.0288,0.709,111.012,4,0,1970
+Glide - Original Mix,The Greatest Of Pleasure,Pleasure,1993-01-01,388773,38,0.717,0.00532,0.82,0.843,0.0583,-9.085,0.0404,0.962,117.795,4,2,1970
+Message In A Bottle - Remastered 2003,Reggatta De Blanc,The Police,1979-10-02,290280,0,0.582,0.0338,0.81,1.68e-05,0.202,-7.024,0.0396,0.875,151.006,4,0,1970
+You're Gonna Get What's Coming - Remastered Version,The Glow,Bonnie Raitt,1979,212600,11,0.61,0.00962,0.822,2.91e-06,0.0442,-7.281,0.0484,0.359,139.619,4,2,1970
+Heartbreaker,Greatest Hits: Grand Funk Railroad (Remastered),Grand Funk Railroad,2006-01-01,394760,38,0.287,0.0568,0.758,0.00277,0.214,-6.52,0.0523,0.454,142.654,3,1,1970
+Longer,Portrait: The Music Of Dan Fogelberg From 1972-1997,Dan Fogelberg,1997,195200,50,0.433,0.908,0.159,0.0,0.13,-15.363,0.0295,0.382,78.989,4,1,1970
+When I Wanted You,The Essential Barry Manilow,Barry Manilow,2005-04-26,215333,16,0.302,0.75,0.402,0.0,0.079,-7.849,0.0287,0.352,136.439,4,1,1970
+Memorize Your Number,The Leif Garrett Collection,Leif Garrett,1998-07-22,167960,18,0.782,0.017,0.418,0.0,0.0868,-14.367,0.469,0.893,140.936,4,2,1970
+Star - Remastered,Stuck In The Middle With You,Stealers Wheel,2009-08-12,187117,15,0.738,0.067,0.519,0.0,0.0631,-6.617,0.0387,0.539,120.019,4,0,1970
+Can We Still Be Friends?,The Very Best of Todd Rundgren,Todd Rundgren,1997-07-29,218440,40,0.57,0.791,0.397,0.00017,0.0789,-8.93,0.0389,0.235,172.547,3,1,1970
+The Second Time Around,Big Fun,Shalamar,1979-01-01,223293,45,0.801,0.0123,0.388,7.16e-05,0.0924,-12.135,0.0505,0.577,112.367,4,0,1970
+I Don't Want to Talk About It - 2008 Remaster,Atlantic Crossing,Rod Stewart,1975,288266,69,0.472,0.872,0.373,0.206,0.147,-12.98,0.0262,0.459,135.193,4,1,1970
+99,Hydra,TOTO,1979-10-01,316053,54,0.482,0.181,0.471,0.00167,0.112,-13.873,0.0334,0.342,88.557,4,1,1970
+Don't Make Me Over,Right on the Tip of My Tongue,Brenda And The Tabulations,2000-01-01,232493,8,0.407,0.435,0.56,4.09e-05,0.268,-5.793,0.0285,0.357,131.435,3,1,1970
+Shooting Star,Shooting Stars - The Dollar Collection,Dollar,2002,228400,0,0.631,0.073,0.545,0.0116,0.131,-10.49,0.035,0.57,138.621,4,0,1970
+Volcano,Volcano,Jimmy Buffett,1979-01-01,219893,53,0.652,0.332,0.474,1.03e-06,0.0993,-14.436,0.204,0.88,176.966,4,0,1970
+"I Call Your Name - 12"" Version",20th Century Masters: The Millennium Collection: Best of Switch,Switch,2001-01-01,455200,47,0.519,0.648,0.643,0.00144,0.307,-8.268,0.0795,0.832,79.91,4,0,1970
+With You I'm Born Again (In the Style of Billy Preston) [Karaoke Version],With You I am Born Again (In the Style of Billy Preston & Syreeta) [Karaoke Version] - Single,Ameritz Karaoke Entertainment,2012-07-26,212400,0,0.345,0.46,0.234,0.91,0.123,-18.139,0.0314,0.0707,81.049,3,1,1970
+Holdin' On For Dear Love,Best Of Lobo,Lobo,1996-10-29,166000,25,0.602,0.582,0.519,0.0,0.0796,-10.717,0.0851,0.8,168.753,4,0,1970
+You Decorated My Life,A Love Song Collection,Kenny Rogers,2008-01-01,219613,0,0.246,0.65,0.417,9.7e-06,0.0911,-9.088,0.0307,0.168,172.314,4,1,1970
+Rise,Rise,Herb Alpert,1979-09-01,457400,0,0.814,0.133,0.454,0.839,0.0863,-10.802,0.0413,0.903,99.265,4,2,1970
+Dreaming,Eat To The Beat,Blondie,1979-09-28,188493,46,0.299,0.0048,0.92,0.00022,0.122,-3.377,0.0552,0.675,160.449,4,0,1970
+Ready For The 80's,A Tribute to the Hits of the Village People,Navy Gravy,2009-11-16,241760,0,0.601,0.0336,0.615,1.29e-05,0.332,-9.178,0.036,0.675,130.986,4,0,1970
+The Peter Piper Theme,The Very Best Of Frank,Frank Mills,1978,162493,25,0.457,0.965,0.135,0.693,0.106,-26.149,0.0427,0.809,107.235,4,1,1970
+Please Don't Leave,Smooth Sailing - Yacht Rock Classics,Various Artists,2018-06-25,238666,2,0.775,0.201,0.447,0.000106,0.0493,-13.512,0.0445,0.839,124.211,4,0,1970
+Good Girls Don't,Get The Knack,The Knack,1979-01-01,189173,45,0.403,0.0327,0.72,0.0,0.159,-9.841,0.0395,0.916,176.385,4,0,1970
+No Chance,Lost Hits Of The 70's,Various Artists,2012-01-01,159866,3,0.706,0.133,0.408,4.32e-06,0.0948,-11.241,0.0414,0.762,120.475,4,0,1970
+This Night Won't Last Forever,This Night Won't Last Forever,Bill LaBounty,1978-07-21,265640,28,0.648,0.322,0.402,1.38e-06,0.0886,-14.972,0.0241,0.607,102.682,4,1,1970
+I Do Believe in You,Future Street,Pages,1979-11-26,242786,17,0.579,0.013,0.762,0.0,0.126,-9.704,0.0358,0.85,140.435,4,0,1970
+Lay It on the Line,Greatest Hits Remixed,Triumph,2010-05-18,246026,45,0.228,0.00672,0.872,0.0,0.242,-5.479,0.0648,0.278,91.724,4,0,1970
+"Cruel Shoes - From the Book ""Cruel Shoes""",Comedy Is Not Pretty,Steve Martin,1979-09-14,137373,10,0.562,0.865,0.38,0.0,0.366,-15.932,0.693,0.556,126.758,3,1,1970
+Get It Up,Images,Ronnie Milsap,1979-01-01,320320,0,0.849,0.0742,0.617,1.56e-05,0.084,-12.594,0.0381,0.917,100.162,4,0,1970
+It's All I Can Do,Candy-O,The Cars,1979,225760,47,0.603,0.0386,0.701,0.00106,0.211,-9.719,0.0274,0.961,118.664,4,0,1970
+Don't Stop 'Til You Get Enough,Off the Wall,Michael Jackson,1979-08-10,365466,76,0.878,0.126,0.821,0.0461,0.183,-9.875,0.089,0.947,118.881,4,0,1970
+Come to Me,The Solo Years,Tommy James,1991,195026,1,0.334,0.332,0.497,0.0,0.145,-9.008,0.0308,0.672,84.051,4,0,1970
+If You Want It,Niteflyte,Niteflyte,1995-07-02,270933,36,0.458,0.477,0.861,0.0,0.0649,-6.011,0.086,0.731,86.774,4,0,1970
+Another Day in Paradise - 2016 Remaster,...But Seriously (Deluxe Edition),Phil Collins,1989-11-20,322133,75,0.78,0.736,0.565,0.00269,0.063,-7.32,0.0306,0.365,101.967,4,1,1980
+We Didn't Start the Fire,Storm Front,Billy Joel,1989-10-17,287733,76,0.712,0.0771,0.967,0.0,0.356,-5.206,0.047,0.895,145.024,4,0,1980
+Rhythm Nation,Rhythm Nation 1814,Janet Jackson,1989-09-19,330933,53,0.633,0.0504,0.931,0.109,0.375,-7.752,0.0686,0.676,109.116,4,0,1980
+With Every Beat of My Heart,Tell It to My Heart (Deluxe Anniversary Edition),Taylor Dayne,2018-07-17,265588,13,0.773,0.13,0.913,1.48e-06,0.145,-6.544,0.0426,0.926,121.314,4,0,1980
+Back To Life,Keep On Movin',Soul II Soul,1989-01-01,228266,64,0.817,0.0515,0.484,0.000213,0.0391,-11.659,0.143,0.671,100.978,4,0,1980
+Just Like Jesse James,Heart Of Stone,Cher,1989-01-01,245733,59,0.4,0.17,0.563,0.0,0.133,-10.233,0.0307,0.442,138.006,4,0,1980
+This One's for the Children,"Merry, Merry Christmas",New Kids On The Block,1989,238466,31,0.594,0.198,0.421,0.0,0.0832,-13.707,0.0312,0.637,74.041,4,1,1980
+Living In Sin,New Jersey (Deluxe Edition),Bon Jovi,1988-09-13,279053,50,0.267,0.0247,0.793,0.0,0.0634,-7.12,0.0415,0.526,174.118,4,0,1980
+How Am I Supposed to Live without You,The Best of Branigan,Laura Branigan,1995-06-06,263320,33,0.546,0.813,0.469,8.33e-05,0.134,-8.26,0.035,0.185,139.334,4,1,1980
+Everything,20th Century Masters: The Millennium Collection: Best Of Jody Watley,Jody Watley,2000-01-01,256506,26,0.583,0.336,0.686,0.00111,0.299,-8.834,0.0304,0.574,164.019,4,0,1980
+Blame It on the Rain,Greatest Hits,Milli Vanilli,2007-03-01,248533,42,0.758,0.00328,0.827,0.000165,0.0951,-6.151,0.0774,0.506,97.515,4,0,1980
+Swing The Mood,Jive Bunny And The Mastermixers The Biggest Party On The Planet,Jive Bunny and the Mastermixers,2009-10-19,259573,52,0.865,0.049,0.512,0.0173,0.201,-13.376,0.0521,0.879,92.512,4,0,1980
+Just Between You And Me,Nature Of The Beast,April Wine,1981,235560,51,0.511,0.408,0.308,2.2e-05,0.15,-15.021,0.0247,0.377,83.546,4,1,1980
+Lovesong,Greatest Hits,The Cure,2001-11-13,208333,43,0.586,0.345,0.868,0.311,0.174,-4.302,0.0297,0.737,139.94,4,0,1980
+Free Fallin',Full Moon Fever,Tom Petty,1989-01-01,256000,79,0.623,0.212,0.449,0.0,0.0613,-13.333,0.0253,0.572,84.383,4,1,1980
+When the Night Comes,One Night of Sin,Joe Cocker,1989-08-16,288733,34,0.535,0.111,0.63,0.000297,0.3,-9.776,0.028,0.454,82.003,4,2,1980
+Downtown Train,Patty Smyth's Greatest Hits Featuring Scandal,Patty Smyth,1982,241906,15,0.703,0.317,0.706,1.84e-06,0.0483,-5.347,0.0349,0.642,130.339,4,0,1980
+Two To Make It Right,Nothing Matters Without Love,Seduction,1989,282266,42,0.772,0.204,0.598,0.00345,0.513,-10.857,0.0429,0.717,114.419,4,0,1980
+Oh Father,Like a Prayer,Madonna,1989-03-21,298760,42,0.576,0.547,0.268,5.17e-05,0.118,-14.313,0.0294,0.175,115.952,3,1,1980
+Love Shack,Cosmic Thing,The B-52's,1989-06-23,320680,72,0.701,0.0544,0.803,1.54e-06,0.7,-6.786,0.0545,0.903,133.608,4,0,1980
+Rock And A Hard Place - Remastered,"Jump Back - The Best Of The Rolling Stones, '71 - '93",The Rolling Stones,1993-11-22,250360,0,0.693,0.023,0.826,0.000521,0.0882,-9.443,0.0399,0.93,129.049,4,0,1980
+Don't Close Your Eyes,Blow My Fuse,Kix,1988-09-06,257053,54,0.537,0.0795,0.382,0.00115,0.114,-15.568,0.0245,0.338,148.061,4,2,1980
+I Remember You,Skid Row,Skid Row,1989-01-24,313693,68,0.345,0.00642,0.531,7.28e-06,0.14,-12.708,0.0305,0.49,176.302,4,0,1980
+When I See You Smile,Bad English,Bad English,1989-06-15,257440,66,0.495,0.42,0.609,0.0,0.187,-9.902,0.0339,0.33,135.671,4,1,1980
+Angelia,Repeat Offender,Richard Marx,1989-01-01,317933,57,0.54,0.114,0.64,0.000685,0.245,-8.557,0.0251,0.523,97.033,4,0,1980
+Janie's Got A Gun,Big Ones,Aerosmith,1994-01-01,330533,62,0.633,0.0516,0.823,0.000496,0.188,-5.792,0.0287,0.444,115.107,4,2,1980
+The Last Worthless Evening,The End Of The Innocence,Don Henley,1989-01-01,362466,47,0.731,0.212,0.505,0.0,0.0409,-11.334,0.0262,0.396,99.99,4,1,1980
+Exceptional,Return Of The Tender Lover,Babyface,2015-12-04,340386,44,0.664,0.14,0.577,0.000202,0.0689,-8.058,0.0348,0.567,95.981,4,0,1980
+Bust A Move,Stone Cold Rhymin',Young MC,1989-01-01,263914,63,0.946,0.0512,0.772,2.26e-06,0.0612,-7.537,0.121,0.743,116.972,4,0,1980
+Peace In Our Time,The Best Of Eddie Money,Eddie Money,1977,301840,20,0.617,0.366,0.801,0.0,0.141,-7.333,0.0624,0.402,122.03,4,1,1980
+Don't Make Me Over,Platinum & Gold Collection,Jennifer Warnes,2004-07-02,260733,16,0.6,0.534,0.437,8.93e-06,0.0713,-8.064,0.0269,0.294,82.026,3,1,1980
+Leave A Light On,Runaway Horses,Belinda Carlisle,1989-10-17,277293,34,0.557,0.0291,0.824,0.0,0.0829,-9.053,0.0524,0.549,128.688,4,2,1980
+Fool for Your Loving - 2009 Remaster,Slip of the Tongue (20th Anniversary Edition),Whitesnake,1989,248546,43,0.503,0.00171,0.943,4.1e-05,0.253,-4.951,0.0403,0.536,125.861,4,0,1980
+What Kind of Man Would I Be? - 2003 Remaster,Love Songs,Chicago,2005-01-25,253760,37,0.358,0.157,0.774,0.0,0.182,-6.825,0.0362,0.301,176.116,4,1,1980
+Was It Nothing At All,Rock On,Michael Damian,2009-03-31,282664,21,0.487,0.0397,0.648,0.00072,0.321,-5.332,0.0279,0.442,134.95,4,0,1980
+Tell Me Why,Greatest Hits,Exposé,1995-11-20,267026,16,0.648,0.154,0.894,0.0,0.151,-8.889,0.0679,0.847,99.334,4,0,1980
+I Want You,Obsession: The Best Of Animotion,Animotion,1996-01-01,277666,14,0.628,0.000843,0.748,0.00112,0.0485,-13.086,0.0357,0.494,132.277,4,0,1980
+Me So Horny,Goes To the Movies: Decade of Hits,2 LIVE CREW,1997-10-28,277840,15,0.939,0.00433,0.844,0.00267,0.0785,-7.844,0.212,0.644,128.753,4,0,1980
+Principal's Office,Stone Cold Rhymin' (Deluxe Edition),Young MC,1989-01-01,255946,35,0.835,0.0887,0.799,1.06e-06,0.1,-4.649,0.123,0.736,95.502,4,0,1980
+I Live by the Groove,Groove Approved,Paul Carrack,1989-10-01,252373,17,0.682,0.0409,0.748,1.3e-05,0.103,-10.862,0.036,0.933,122.847,4,0,1980
+Poison,Trash,Alice Cooper,1989-07-25,270080,73,0.28,0.0327,0.908,8.85e-06,0.18,-5.509,0.109,0.26,118.698,4,0,1980
+Steamy Windows,Foreign Affair,Tina Turner,1989-09-13,245133,50,0.745,0.0626,0.755,0.00659,0.169,-7.53,0.0318,0.847,133.771,4,0,1980
+Kickstart My Heart,Dr. Feelgood,Mötley Crüe,1989,282653,77,0.359,0.00125,0.981,0.00236,0.284,-3.622,0.303,0.271,178.98,4,2,1980
+Dangerous (Karaoke Version) [In the Style of Natalie Cole],In the Style of Natalie Cole (Karaoke - Professional Performance Tracks),Karaoke Library,2011-02-11,229998,0,0.663,0.0242,0.52,0.905,0.283,-15.296,0.0318,0.796,134.424,4,2,1980
+Don't Shut Me Out,Kevin Paige,Kevin Paige,1989-01-01,232040,14,0.672,0.019,0.883,0.0026,0.322,-9.48,0.0554,0.681,105.129,4,0,1980
+No More Lies,Michel'le,Michel'le,1989,225840,40,0.834,0.15,0.871,0.0721,0.287,-6.972,0.0821,0.835,110.294,4,0,1980
+Nothin' To Hide,The Essential Poco,Poco,2005-04-19,313266,20,0.511,0.312,0.377,5.17e-06,0.0531,-11.948,0.0241,0.409,95.341,3,1,1980
+Here We Are,Let It Loose/Cuts Both Ways/Into The Light (3 Pak),Gloria Estefan,1987,289706,0,0.697,0.632,0.481,1.92e-05,0.0954,-14.456,0.0332,0.622,142.154,4,0,1980
+My Heart Skips A Beat,We Can't Go Wrong,The Cover Girls,1989-01-01,320533,30,0.648,0.134,0.675,0.000249,0.139,-9.401,0.0413,0.54,116.0,4,0,1980
+The Angel Song,Twice Shy,Great White,1989-01-01,291066,40,0.595,0.685,0.21,0.00184,0.0918,-17.807,0.0293,0.099,110.415,4,1,1980
+Listen To Your Heart,Look Sharp! (2009 Version),Roxette,1988-10-19,328093,5,0.539,0.108,0.583,0.0,0.111,-4.935,0.0275,0.337,86.063,4,0,1980
+Wait for You,THE DISREGARD OF TIMEKEEPING,Bonham,1989-07-06,302066,41,0.568,0.0277,0.749,0.000113,0.291,-11.12,0.0328,0.617,111.968,4,0,1980
+Woman In Chains,The Seeds Of Love,Tears For Fears,1989-09-25,393000,0,0.469,0.0255,0.628,0.00133,0.0472,-8.204,0.0293,0.354,79.999,4,0,1980
+Get on Your Feet,Cuts Both Ways,Gloria Estefan,1989-07-11,218133,47,0.724,0.102,0.779,0.00152,0.129,-10.036,0.037,0.93,123.934,4,0,1980
+Pretending,Journeyman,Eric Clapton,1989-11-07,283280,41,0.602,0.168,0.872,0.000705,0.0545,-6.211,0.029,0.668,98.452,4,0,1980
+Over and Over,Up All Night,Pajama Party,1989,365173,22,0.66,0.106,0.794,0.00445,0.0974,-11.203,0.0334,0.835,119.705,4,0,1980
+Electric Boogie,Carousel,Marcia Griffiths,1990-03-06,242773,43,0.769,0.116,0.898,0.000648,0.261,-9.347,0.0355,0.968,108.141,4,0,1980
+Don't Take It Personal,Don't Take It Personal,Jermaine Jackson,1989,271080,0,0.857,0.155,0.31,5.21e-05,0.0315,-15.381,0.0913,0.795,94.69,4,0,1980
+Price of Love,Bad English,Bad English,1989-06-15,286040,44,0.348,0.0201,0.444,1.23e-05,0.0639,-10.001,0.0288,0.241,138.194,4,0,1980
+French Kiss - The Original Underground Mix,Club Epic - A Collection Of Classic Dance Mixes: Volume 4,Various Artists,1996-01-30,591733,45,0.689,0.0133,0.505,0.818,0.345,-13.846,0.0867,0.564,123.948,4,2,1980
+Personal Jesus - Original Single Version,Personal Jesus,Depeche Mode,1989,224906,63,0.637,0.0112,0.682,0.0234,0.0473,-11.625,0.0366,0.714,129.983,4,0,1980
+Miss You Much,Rhythm Nation 1814,Janet Jackson,1989-09-19,252333,50,0.702,0.0305,0.975,0.000134,0.165,-7.968,0.0396,0.646,115.185,4,2,1980
+Hide Your Heart,Hot In The Shade,KISS,1989-01-01,264133,41,0.572,0.306,0.846,1.31e-05,0.169,-10.081,0.0617,0.596,122.384,4,0,1980
+Rock Wit'cha,Don't Be Cruel,Bobby Brown,1988-01-01,289533,54,0.685,0.0306,0.547,1.05e-05,0.0694,-12.417,0.0487,0.909,77.509,4,0,1980
+Heart,Raw Like Sushi,Neneh Cherry,1989-01-01,309200,18,0.745,0.133,0.645,8.97e-06,0.0556,-12.039,0.151,0.968,101.74,4,0,1980
+Here and Now,The Essential Luther Vandross,Luther Vandross,2003,322760,42,0.578,0.531,0.405,0.0,0.0886,-9.178,0.0262,0.232,75.08,4,1,1980
+A Girl Like You,Smithereens 11,The Smithereens,1989-10-18,282866,53,0.657,0.0892,0.828,0.0,0.0575,-9.344,0.0283,0.908,123.799,4,0,1980
+Lullaby - 2010 Remaster,Disintegration (Deluxe Edition),The Cure,1989-05-02,249880,54,0.718,0.185,0.557,0.707,0.055,-10.679,0.0328,0.586,94.095,4,2,1980
+Never 2 Much Of U,24/7,DINO,1989-01-01,329960,12,0.587,0.102,0.396,0.00062,0.307,-14.701,0.032,0.779,81.265,4,0,1980
+Back to the Bullet,Saraya,Saraya,1989,229840,23,0.406,0.0261,0.779,2.71e-06,0.115,-8.454,0.0337,0.47,106.018,4,1,1980
+I Didn't Mean To Stay All Night,Love Among The Cannibals,Starship,1989,290426,0,0.601,0.0185,0.857,2.13e-05,0.0437,-5.944,0.0267,0.719,137.915,4,0,1980
+Cover Girl,Hangin' Tough,New Kids On The Block,1988-09-02,241840,42,0.721,0.0344,0.765,2.83e-06,0.322,-13.036,0.0345,0.948,119.95,4,0,1980
+I Don't Know,Michael Morales,Michael Morales,1989-01-01,236840,5,0.593,0.46,0.618,0.0,0.121,-11.099,0.034,0.549,97.093,4,1,1980
+Roam - Edit,Roam (Edit) / Bushfire [45 Version],The B-52's,1989-06-27,246853,51,0.61,0.0586,0.889,1.33e-05,0.112,-9.375,0.0692,0.724,134.666,4,0,1980
+Girl I Am Searching for You,Best Of Stevie B,Stevie B,1991-01-01,281506,24,0.668,0.0108,0.761,0.000272,0.0679,-13.509,0.0462,0.625,119.48,4,0,1980
+Too Hot,The Very Best Of Kool & The Gang,Kool & The Gang,1999-01-01,226826,0,0.718,0.406,0.533,1.91e-06,0.121,-11.072,0.121,0.681,104.938,4,1,1980
+Foolish Heart,Street Talk,Steve Perry,1984,218066,0,0.677,0.351,0.502,1.33e-06,0.0853,-9.135,0.0222,0.546,96.425,4,1,1980
+Heat Of The Moment,Asia,Asia,1982-01-01,227626,0,0.324,0.358,0.84,0.000239,0.367,-7.31,0.0489,0.576,136.136,4,0,1980
+Talk To Myself,Adventures In Paradise,Christopher Williams,1989-01-01,260093,18,0.757,0.0576,0.726,0.0,0.144,-9.318,0.0553,0.797,112.796,4,0,1980
+I'm Gonna Miss You,Girl You Know It's True - The Best Of Milli Vanilli,Milli Vanilli,2013-07-26,238840,38,0.754,0.0998,0.453,0.00487,0.108,-9.862,0.0443,0.758,151.239,4,0,1980
+When I Looked at Him,Greatest Hits,Exposé,1995-11-20,259200,26,0.455,0.23,0.713,0.000332,0.37,-10.959,0.0423,0.469,169.633,4,0,1980
+500 Miles,Super Hits,The Hooters,1985,262240,55,0.534,0.548,0.732,4.91e-05,0.0845,-7.29,0.0404,0.67,74.799,4,0,1980
+Touch Me Tonight,Ten Best,Shooting Star,2016-02-29,252666,0,0.697,0.211,0.743,7.75e-06,0.0594,-8.51,0.0288,0.444,123.08,4,0,1980
+Sold Me Down The River,Standards,The Alarm,1990-01-01,250729,33,0.632,0.0329,0.815,0.0,0.0403,-7.81,0.0312,0.687,113.273,4,0,1980
+I Think I Can Beat Mike Tyson,And In This Corner...,DJ Jazzy Jeff & The Fresh Prince,1989-10-31,289093,24,0.875,0.124,0.794,0.0,0.0498,-12.456,0.18,0.733,107.881,4,0,1980
+Love In An Elevator - Single Version,Big Ones,Aerosmith,1994-01-01,321826,57,0.449,0.00854,0.961,0.00276,0.343,-4.305,0.0701,0.602,93.956,4,0,1980
+Powder Your Face With Sunshine (Smile! Smile! Smile!),Dino The Essential Dean Martin,Dean Martin,2013-12-31,152533,28,0.501,0.959,0.246,0.0887,0.283,-10.682,0.0436,0.568,168.243,3,1,1980
+I'm Not the Man I Used to Be,The Raw & The Cooked,Fine Young Cannibals,1988-01-01,258866,47,0.811,0.206,0.629,0.161,0.0564,-12.571,0.0363,0.867,110.42,4,0,1980
+Dr. Feelgood,Dr. Feelgood 20th Anniversary (Expanded Version),Mötley Crüe,1989,290186,1,0.53,0.000837,0.952,0.0119,0.262,-5.105,0.0577,0.433,110.98,4,0,1980
+Radar Love,Big Game,White Lion,1989,359960,50,0.232,0.00028,0.775,0.0225,0.0775,-10.923,0.0565,0.59,206.07,4,1,1980
+Call It Love,The Essential Poco,Poco,2005-04-19,257426,48,0.546,0.0722,0.622,0.00302,0.193,-10.426,0.0247,0.372,104.493,4,2,1980
+Sowing The Seeds Of Love,The Seeds Of Love,Tears For Fears,1989-09-25,376733,0,0.208,0.0114,0.793,5.67e-05,0.354,-7.232,0.0513,0.708,174.472,4,0,1980
+If I Could Turn Back Time,Heart Of Stone,Cher,1989-01-01,239826,72,0.658,0.243,0.575,0.0,0.122,-10.365,0.0267,0.504,108.329,4,1,1980
+My Heart Skips A Beat,We Can't Go Wrong,The Cover Girls,1989-01-01,320533,30,0.648,0.134,0.675,0.000249,0.139,-9.401,0.0413,0.54,116.0,4,0,1980
+A Whole New World (Aladdin's Theme),Baby Come To Me: The Best Of Regina Belle,Regina Belle,1997-10-16,243093,41,0.52,0.582,0.403,0.0,0.134,-6.87,0.0275,0.132,107.938,4,1,1980
+It's No Crime,Tender Lover,Babyface,1989-07-07,241493,37,0.802,0.0608,0.802,0.000252,0.0727,-6.709,0.0513,0.912,116.316,4,2,1980
+Sugar Daddy,Big Trash,Thompson Twins,1989-09-26,211800,25,0.724,0.157,0.569,0.00498,0.038,-11.888,0.0282,0.923,109.936,4,0,1980
+New Thing,Enuff Z'Nuff,Enuff Z'Nuff,1989-08-18,257920,35,0.373,0.00409,0.884,0.0,0.329,-7.707,0.0421,0.28,130.099,4,0,1980
+You Are My Everything,2nd Wave (Expanded Edition),Surface,1988,271080,34,0.712,0.0981,0.558,0.0,0.0618,-10.362,0.0661,0.831,96.018,4,0,1980
+I'm A Believer,Last Of The Runaways,GIANT,1989-01-01,344853,38,0.557,0.0162,0.823,0.134,0.102,-11.143,0.0581,0.309,108.693,4,2,1980
+Smooth (In the Style of Carlos Santana Featuring Rob Thomas) - Karaoke Version,Smooth (In the Style of Carlos Santana Featuring Rob Thomas) [Karaoke Version] - Single,ProSource Karaoke,2010-08-01,235230,0,0.692,0.086,0.696,0.0186,0.0551,-10.309,0.036,0.884,115.965,4,0,1990
+Back At One,Back At One,Brian McKnight,1999-09-21,263666,71,0.661,0.452,0.346,0.0,0.131,-9.115,0.03,0.256,129.752,4,1,1990
+I Wanna Love You Forever,Sweet Kisses,Jessica Simpson,1999-11-16,263800,58,0.59,0.156,0.666,0.0,0.136,-4.047,0.0244,0.0743,104.042,4,0,1990
+I Knew I Loved You,Truly Madly Completely - The Best of Savage Garden,Savage Garden,2005-11-01,251253,60,0.556,0.307,0.517,0.00115,0.077,-8.769,0.0287,0.779,169.938,4,0,1990
+My Love Is Your Love,My Love Is Your Love,Whitney Houston,1998-11-17,261573,69,0.77,0.0557,0.475,4.81e-06,0.0607,-9.512,0.159,0.474,82.511,4,2,1990
+I Need to Know,Marc Anthony,Marc Anthony,1999-09-28,227706,59,0.813,0.486,0.949,9.75e-06,0.112,-2.563,0.0336,0.792,115.061,4,2,1990
+"U Know What's Up (feat. Lisa ""Left Eye"" Lopes)",Where I Wanna Be,Donell Jones,1999-05-29,243733,65,0.854,0.0402,0.543,5.73e-05,0.0419,-6.166,0.0844,0.868,103.032,4,2,1990
+Bring It All to Me (feat. *NSYNC),Blaque,Blaque,1999-05-28,218186,59,0.695,0.000479,0.579,0.0,0.0556,-5.066,0.0325,0.726,88.957,4,0,1990
+Girl On TV,LFO,LFO,1999-08-10,247600,50,0.688,0.131,0.716,0.0,0.134,-4.001,0.0297,0.352,96.043,4,2,1990
+Waiting for Tonight,On The 6,Jennifer Lopez,1999-06-01,246426,63,0.695,0.00341,0.945,0.0727,0.103,-6.165,0.0418,0.84,125.013,4,0,1990
+What a Girl Wants,Christina Aguilera (Expanded Edition),Christina Aguilera,1999,215800,65,0.754,0.0684,0.819,0.0,0.345,-6.833,0.112,0.818,142.137,4,0,1990
+Then The Morning Comes,Astro Lounge,Smash Mouth,1999-06-08,182266,48,0.729,0.0231,0.881,0.0,0.0872,-5.024,0.0283,0.963,118.58,4,0,1990
+Steal My Sunshine,You Can't Stop The Bum Rush,LEN,1999-05-25,265533,62,0.413,0.394,0.829,0.0,0.108,-11.111,0.529,0.677,191.477,4,0,1990
+He Can't Love U,J.E. Heartbreak,Jagged Edge,2000-01-18,244053,58,0.721,0.112,0.836,0.0,0.235,-3.972,0.206,0.508,126.279,4,2,1990
+Where My Girls At,702,702,1999-01-01,166693,61,0.705,0.0352,0.725,0.0149,0.194,-7.435,0.0506,0.76,92.186,4,0,1990
+Unpretty,Fanmail,TLC,1999-02-23,278066,63,0.648,0.00152,0.622,5.97e-05,0.109,-6.063,0.0428,0.51,88.684,4,0,1990
+Meet Virginia,Train,Train,1998-02-24,239933,66,0.675,0.0863,0.553,7.58e-06,0.118,-7.775,0.0486,0.594,90.02,4,0,1990
+Learn to Fly,There Is Nothing Left To Lose,Foo Fighters,1999-11-02,235293,75,0.465,1.83e-05,0.919,2.07e-05,0.262,-4.025,0.0408,0.537,135.997,4,0,1990
+Get It On Tonite,Best Of Montell Jordan,Montell Jordan,2015-09-25,277413,54,0.807,0.259,0.498,3.04e-05,0.0618,-9.91,0.0756,0.857,99.001,4,0,1990
+Put a Little Holiday in Your Heart,Big Deal - A Tribute to Leann Rimes,Ameritz Tribute Standards,2012-07-01,205305,3,0.588,0.608,0.335,0.0,0.119,-13.524,0.0413,0.682,148.878,4,0,1990
+Get Gone,Ideal,Ideal,1999-01-01,275173,38,0.702,0.435,0.52,0.0,0.299,-8.581,0.0725,0.467,120.005,4,1,1990
+Breathe,Breathe,Faith Hill,1999-11-09,250546,67,0.529,0.173,0.496,0.0,0.251,-9.007,0.029,0.278,136.859,4,1,1990
+Dancin',The Best Of Guy 20th Century Masters The Millennium Collection,Guy,2004-01-01,249040,0,0.796,0.111,0.72,0.0,0.126,-3.886,0.111,0.778,101.008,4,0,1990
+That's the Way It Is,All The Way... A Decade Of Song,Céline Dion,1992,241373,0,0.635,0.141,0.88,0.0,0.125,-5.405,0.0452,0.596,93.043,4,2,1990
+He Didn't Have to Be,Hits Alive,Brad Paisley,2010-11-02,282226,48,0.476,0.105,0.443,7.97e-06,0.123,-7.563,0.0282,0.165,72.888,4,1,1990
+Satisfy You (As Made Famous By Puff Daddy Featuring R. Kelly),Drew's Famous # 1 Karaoke Hits: Sing Like R. Kelly,The Karaoke Crew,2010,304133,0,0.686,0.00924,0.302,0.00101,0.0617,-13.776,0.104,0.688,174.031,4,0,1990
+Someday,Mariah Carey,Mariah Carey,1990-06-12,246106,51,0.684,0.207,0.818,2.19e-06,0.0251,-8.686,0.0405,0.937,109.864,4,0,1990
+Hanginaround,This Desert Life,Counting Crows,1999,247333,60,0.503,0.295,0.785,0.0,0.744,-6.571,0.0743,0.734,91.464,4,0,1990
+Stay The Night - Radio Edit,Greatest Hits: Immature,Immature,2001-01-01,219466,30,0.585,0.0111,0.709,0.0,0.202,-5.604,0.0611,0.726,183.22,4,0,1990
+Black Balloon,Greatest Hits Volume One - The Singles,The Goo Goo Dolls,2007-11-06,250066,46,0.328,0.0674,0.691,3.36e-05,0.247,-6.154,0.0294,0.298,104.242,4,0,1990
+Take a Picture,Title Of Record,Filter,1999-08-23,359520,0,0.446,0.000103,0.762,7.2e-05,0.26,-8.971,0.0422,0.276,98.993,4,0,1990
+Shake Your Bon-Bon,Ricky Martin,Ricky Martin,1999,192333,48,0.638,0.0942,0.937,0.0,0.327,-4.642,0.0444,0.762,100.03,4,2,1990
+If You Love Me,From The Bottom Up,Brownstone,1993-06-01,304160,62,0.687,0.225,0.583,0.0,0.105,-10.224,0.0639,0.211,95.138,4,0,1990
+When I Said I Do (with Lisa Hartman Black),Greatest Hits II,Clint Black,2001-11-19,268960,54,0.507,0.308,0.411,0.0,0.106,-8.657,0.0276,0.184,102.806,3,1,1990
+Don't Say You Love Me,Shades of Purple,M2M,2000-02-15,225200,55,0.627,0.0141,0.723,3.66e-05,0.118,-6.241,0.0341,0.596,97.555,4,0,1990
+Amazed,Playlist: The Very Best Of Lonestar,Lonestar,1995,239986,63,0.557,0.247,0.553,0.0,0.125,-7.954,0.0319,0.253,139.821,4,1,1990
+What Do You Say,50 Greatest Hits,Reba McEntire,2008-01-01,208746,0,0.458,0.193,0.567,0.0,0.0968,-8.199,0.0483,0.332,171.199,4,1,1990
+She's so High,Tal Bachman,Tal Bachman,1999-02-23,224693,72,0.537,0.2,0.84,2.15e-06,0.0998,-4.626,0.0363,0.211,124.269,4,2,1990
+Cowboy Take Me Away,Fly,The Chicks,1999-08-27,287266,68,0.467,0.365,0.622,0.00527,0.0982,-7.255,0.031,0.455,164.418,4,1,1990
+My Best Friend,Love Story,Tim McGraw,2014-02-04,279866,51,0.444,0.12,0.484,0.0,0.135,-8.311,0.0289,0.263,147.715,4,1,1990
+Pop a Top,16 Biggest Hits,Alan Jackson,1989,185426,56,0.699,0.291,0.477,0.0,0.164,-9.339,0.031,0.83,118.382,4,0,1990
+Angels,Life Thru A Lens,Robbie Williams,1997-01-01,265000,74,0.429,0.156,0.594,4.95e-06,0.1,-6.251,0.0277,0.236,150.22,4,1,1990
+All Things Considered,Untamed,Yankee Grey,1999-09-07,159666,39,0.656,0.237,0.746,0.0,0.0214,-5.379,0.0325,0.96,140.865,4,0,1990
+All The Small Things,Enema Of The State,blink-182,1999-01-01,168000,1,0.439,0.0122,0.891,0.0,0.547,-4.764,0.057,0.695,148.599,4,0,1990
+I Love You,To The Extreme,Vanilla Ice,1990-01-01,306200,22,0.633,0.0929,0.518,1.52e-05,0.102,-13.152,0.0656,0.568,156.966,4,1,1990
+Higher,Human Clay,Creed,1999-01-01,316733,70,0.459,5.15e-05,0.83,0.00014,0.206,-6.254,0.0364,0.431,155.827,4,0,1990
+Caught Out There,Kaleidoscope,Kelis,1999-12-07,291706,50,0.848,0.0512,0.691,0.00803,0.0723,-6.775,0.093,0.922,92.996,4,0,1990
+Deep Inside,Mary (Limited Edition Bonus Pack),Mary J. Blige,1999-12-14,326000,37,0.762,0.0341,0.566,2.73e-06,0.0779,-6.749,0.0385,0.666,129.28,4,0,1990
+Something Like That,Number One Hits,Tim McGraw,2010-11-30,183733,54,0.507,0.378,0.85,0.0,0.0567,-5.679,0.0472,0.847,171.8,4,0,1990
+Gotta Man,Let There Be Eve...Ruff Ryders' First Lady,Eve,1999-09-14,264733,42,0.8,0.165,0.867,0.000352,0.114,-4.001,0.133,0.926,90.53,4,2,1990
+Rhythm Divine,Enrique,Enrique Iglesias,1999-11-23,209466,46,0.622,0.13,0.97,0.0,0.188,-2.722,0.156,0.429,102.025,4,2,1990
+Home to You,Love Songs,John Michael Montgomery,2002,209066,28,0.646,0.582,0.366,0.000228,0.128,-11.183,0.0233,0.272,90.338,4,1,1990
+Larger Than Life,Millennium,Backstreet Boys,1999-05-18,232826,68,0.661,0.11,0.973,1.74e-05,0.617,-2.994,0.037,0.75,108.037,4,0,1990
+None Of Ur Friends Business,100% Ginuwine,Ginuwine,1999-03-15,365800,45,0.83,0.243,0.414,0.0,0.627,-11.136,0.197,0.556,99.234,4,0,1990
+Bug a Boo (H-Town Screwed Mix),The Writing's On The Wall,Destiny's Child,1999-07-27,212440,53,0.76,0.00413,0.718,7.63e-06,0.18,-3.087,0.147,0.927,104.42,4,0,1990
+The Chemicals Between Us,The Science of Things (Remastered),Bush,2014-10-14,217493,51,0.512,0.00317,0.958,0.0403,0.295,-3.979,0.16,0.39,97.715,4,2,1990
+She Thinks My Tractor's Sexy,Everywhere We Go,Kenny Chesney,1999-02-26,248066,65,0.689,0.0664,0.886,0.0,0.278,-7.066,0.0382,0.906,122.07,4,0,1990
+There She Goes,The La's,The La's,1990,162160,61,0.536,0.0129,0.854,0.743,0.156,-6.907,0.0298,0.905,122.733,4,2,1990
+We Can't Be Friends-5 - In the Style of Deborah Cox & R.L. (Karaoke Version With Backup Vocals),Karaoke - R&B Vol #01,ProTracks (Karaoke),2010-02-01,273573,0,0.638,0.0116,0.341,0.00752,0.0801,-9.831,0.0295,0.0694,120.038,4,1,1990
+The Great Beyond,Man On The Moon (Music From The Motion Picture),R.E.M.,1999-11-23,305106,0,0.332,0.118,0.749,2.08e-06,0.23,-6.399,0.0299,0.182,109.911,4,0,1990
+Man! I Feel Like A Woman!,Come On Over,Shania Twain,1997,233000,0,0.678,0.637,0.899,0.0,0.347,-2.937,0.048,0.757,124.944,4,0,1990
+The Rockafeller Skank,You've Come A Long Way Baby,Fatboy Slim,1998-01-01,413880,53,0.665,0.0117,0.991,0.00392,0.339,-6.725,0.256,0.0676,152.596,4,2,1990
+Say My Name,The Writing's On The Wall,Destiny's Child,1999-07-27,271333,77,0.713,0.273,0.678,0.0,0.149,-3.525,0.102,0.734,138.009,4,0,1990
+Music of My Heart (In the Style of Gloria Estefan & N Sync) [Karaoke Version],Karaoke - Gloria Estefan,D T Karaoke,2014-07-11,233299,0,0.65,0.618,0.155,2.24e-06,0.16,-18.55,0.0347,0.179,118.014,4,1,1990
+Guerrilla Radio,The Battle Of Los Angeles,Rage Against The Machine,1999-11-02,206200,70,0.599,0.0129,0.957,7.06e-05,0.155,-5.764,0.188,0.489,103.68,4,2,1990
+Auld Lang Syne,The Classic Christmas Album,Kenny G,2012-09-21,293346,30,0.16,0.111,0.296,0.847,0.101,-11.86,0.0348,0.0388,62.33,4,1,1990
+Steam,Us (Remastered Version),Peter Gabriel,1992-09-27,363093,35,0.7,0.127,0.889,0.000374,0.261,-5.027,0.0764,0.681,108.515,4,2,1990
+The Greatest Romance Ever Sold,"Modern Funk: A Tribute to Prince and Jamiroquai, Vol. 3",The Hit Co.,2008-02-27,276360,0,0.709,0.0174,0.231,7.27e-06,0.219,-15.503,0.139,0.627,180.111,4,1,1990
+The Chain of Love,"Live, Laugh, Love",Clay Walker,1999,304506,44,0.533,0.235,0.315,1.19e-05,0.0939,-14.349,0.0308,0.316,140.918,4,1,1990
+Re-Arranged,Significant Other,Limp Bizkit,1999,354733,57,0.527,0.1,0.771,0.0529,0.0612,-7.177,0.0769,0.411,104.386,4,2,1990
+One Night Stand (feat. LaTocha Scott of Xscape),"My Soul, My Life",J-Shin,2000-02-18,202493,6,0.897,0.00709,0.668,0.0,0.0751,-4.335,0.327,0.685,103.952,4,0,1990
+Deck The Halls,Brand New Year,SHeDAISY,2000-01-01,229773,14,0.568,0.0151,0.828,2.05e-05,0.167,-7.123,0.0403,0.407,118.836,4,0,1990
+LA Song,Screamin' for My Supper,Beth Hart,1999-07-12,216760,41,0.765,0.0997,0.624,4.82e-05,0.0935,-7.57,0.0365,0.51,130.026,4,0,1990
+Nastradamus,Nastradamus,Nas,1999-11-23,251933,42,0.823,0.000484,0.62,0.0,0.494,-8.002,0.329,0.628,90.57,4,2,1990
+Genie In a Bottle,Christina Aguilera (Expanded Edition),Christina Aguilera,1999,217573,72,0.627,0.21,0.8,0.000123,0.137,-6.945,0.162,0.912,175.815,4,0,1990
+Scar Tissue,Californication (Deluxe Edition),Red Hot Chili Peppers,1999-06-08,215906,78,0.595,0.0779,0.717,0.00274,0.108,-4.803,0.0295,0.547,88.969,4,2,1990
+She's All I Ever Had,Ricky Martin,Ricky Martin,1999,295333,44,0.393,0.0172,0.765,0.0,0.227,-5.924,0.0481,0.274,81.088,4,0,1990
+The Dolphin's Cry,The Distance To Here,Live,1999-01-01,264160,59,0.342,0.000442,0.792,8.57e-06,0.142,-6.001,0.0391,0.431,149.744,4,1,1990
+If I Could Turn Back the Hands of Time,R.,R. Kelly,1998-11-08,378573,47,0.505,0.677,0.411,1.23e-05,0.0605,-8.273,0.0255,0.124,80.948,3,1,1990
+All Star,Astro Lounge,Smash Mouth,1999-06-08,200373,80,0.731,0.0395,0.867,0.0,0.0861,-5.881,0.032,0.776,104.019,4,0,1990
+I'm Already Taken,The Hits Collection: Steve Wariner,Steve Wariner,2003,199706,23,0.377,0.861,0.194,5.01e-06,0.124,-12.026,0.0316,0.528,130.562,4,1,1990
+Beauty,Enter The Dru,Dru Hill,1998-01-01,272560,58,0.725,0.588,0.278,0.0,0.0869,-14.345,0.0704,0.489,119.788,4,1,1990
+"Candy (In the Style of ""Iggy Pop & Kate Pierson"") [Performance Track with Demonstration Vocals]","Candy (In the Style of ""Iggy Pop & Kate Pierson"") [Performance Track with Demonstration Vocals]",Done Again,2011-06-24,247246,2,0.644,0.0435,0.475,1.36e-06,0.146,-10.343,0.0302,0.308,144.235,4,2,1990
+American Woman,5,Lenny Kravitz,1998-05-12,264560,65,0.688,0.0304,0.671,0.0,0.0782,-7.872,0.0975,0.537,83.988,4,2,1990
+I'll Go Crazy,You Won' t Ever Be Lonely,Andy Griggs,1999-04-03,184160,22,0.683,0.00158,0.635,0.0,0.191,-9.027,0.0323,0.338,110.926,4,2,1990
+A Man Ain't Made Of Stone,A Man Ain't Made Of Stone,Randy Travis,1999-11-21,213506,18,0.472,0.0655,0.485,1.76e-05,0.0801,-8.412,0.0274,0.277,138.788,4,1,1990
+Lonely and Gone,Tattoos & Scars,Montgomery Gentry,1999-03-09,199733,37,0.531,0.15,0.696,0.00016,0.36,-6.729,0.0258,0.488,163.912,4,0,1990
+Vivrant Thing - Club Mix,Something From Nothing: The Art of Rap,Various Artists,2012-06-12,190440,55,0.914,0.00631,0.698,0.000295,0.0575,-8.619,0.0541,0.613,99.034,4,0,1990
+Angels Would Fall,Breakdown,Melissa Etheridge,1999-10-05,279573,31,0.472,0.102,0.714,2.91e-06,0.0485,-7.546,0.0248,0.7,92.874,4,0,1990
+What's My Age Again?,Enema Of The State,blink-182,1999-01-01,148573,0,0.403,0.017,0.956,7.09e-05,0.0893,-7.376,0.0732,0.561,157.706,4,0,1990
+So Anxious,100% Ginuwine,Ginuwine,1999-03-15,276066,58,0.733,0.279,0.395,2.37e-06,0.468,-11.959,0.0366,0.661,96.085,4,0,1990
+Cowboy,Devil Without a Cause,Kid Rock,1998-08-05,257866,66,0.608,0.085,0.897,0.0,0.108,-2.921,0.291,0.868,166.652,4,0,1990
+Man! I Feel Like A Woman!,Come On Over,Shania Twain,1997,233000,0,0.678,0.637,0.899,0.0,0.347,-2.937,0.048,0.757,124.944,4,0,1990
+I Want It That Way,The Hits--Chapter One,Backstreet Boys,2001-10-23,213600,76,0.689,0.216,0.702,0.0,0.159,-5.642,0.0261,0.484,99.031,4,2,1990
+Bailamos,Enrique,Enrique Iglesias,1999-11-23,214066,56,0.627,0.0528,0.888,0.00237,0.136,-4.523,0.0388,0.591,99.905,4,2,1990
+You Had Me from Hello,Everywhere We Go,Kenny Chesney,1999-02-26,230826,52,0.595,0.508,0.393,0.0,0.153,-9.909,0.0292,0.2,137.744,4,1,1990
+Ready to Run,Fly,The Chicks,1999-08-27,231293,56,0.644,0.245,0.644,0.00083,0.27,-7.542,0.0305,0.293,98.746,4,2,1990
+Girls Best Friend,Instrumental Covers Of Jay-Z,White Knight Instrumental,2016-04-06,198720,0,0.675,0.0296,0.879,0.94,0.09,-14.031,0.0718,0.705,186.002,4,2,1990
+"Pieman4Life (Parody of ""Simon Says"" by Pharoahe Monch)",Eat Pie or Die Tryin',Pieman,2010-12-16,181546,0,0.731,0.787,0.589,0.0,0.177,-9.693,0.525,0.559,93.814,4,1,1990
+Never Gonna Let You Go,Keep the Faith,Faith Evans,1998,267400,50,0.644,0.442,0.443,0.0,0.117,-7.308,0.0295,0.0534,109.936,4,1,1990
+TiK ToK,Animal,Kesha,2010,199693,2,0.755,0.0746,0.832,1.27e-06,0.291,-2.741,0.116,0.735,120.032,4,2,2000
+Bad Romance,The Fame Monster,Lady Gaga,2009,294573,0,0.697,0.00305,0.921,3.65e-05,0.0831,-3.75,0.0391,0.721,118.99,4,2,2000
+Replay,Replay,Iyaz,2009-08-11,182306,74,0.706,0.173,0.751,0.0,0.168,-6.323,0.0708,0.195,91.031,4,2,2000
+Fireflies,Ocean Eyes,Owl City,2009-01-01,228346,80,0.512,0.0275,0.662,0.0,0.118,-6.797,0.0439,0.472,180.114,4,0,2000
+Sexy Bitch (Sexy Chick) - Karaoke,Sexy Bitch (Sexy Chick) [Originally Performed by David Guetta featuring Akon],DJ Cover This,2010-02-09,205000,0,0.711,0.0898,0.711,0.892,0.132,-4.931,0.0434,0.69,120.04,4,2,2000
+Whatcha Say,Jason Derulo,Jason Derulo,2010-02-24,221253,69,0.615,0.0444,0.711,0.0,0.145,-5.507,0.0779,0.711,144.036,4,2,2000
+Meet Me Halfway,THE E.N.D. (THE ENERGY NEVER DIES),Black Eyed Peas,2009-01-01,284373,67,0.798,0.00474,0.629,2.17e-05,0.324,-6.857,0.0735,0.4,130.0,4,2,2000
+3,The Singles Collection,Britney Spears,2009-11-09,213173,66,0.697,0.0452,0.709,0.0,0.138,-1.917,0.0455,0.787,134.91,4,0,2000
+Down,Masterpiece: Nuestra Obra Maestra,R.K.M & Ken-Y,2016-11-04,225693,65,0.801,0.563,0.773,0.00425,0.103,-6.651,0.0896,0.796,94.988,4,2,2000
+Paparazzi,The Fame,Lady Gaga,2008-01-01,208306,0,0.763,0.111,0.693,0.0,0.101,-3.973,0.0438,0.399,114.912,4,2,2000
+Sweet Dreams,I AM...SASHA FIERCE,Beyoncé,2008-11-14,208066,66,0.694,0.0895,0.825,1.86e-05,0.0618,-5.986,0.111,0.788,121.949,4,0,2000
+How Low,Battle Of The Sexes (Deluxe),Ludacris,2010-01-01,201586,64,0.785,0.00248,0.498,1.23e-06,0.224,-6.977,0.0533,0.418,143.96,4,2,2000
+Forever,The Paramour Sessions,Papa Roach,2006-01-01,246333,57,0.575,0.0173,0.591,0.0,0.173,-5.916,0.028,0.332,107.967,4,0,2000
+Already Gone,Love On The Inside,Sugarland,2008-01-01,275866,44,0.48,0.214,0.596,1.06e-05,0.151,-5.844,0.03,0.332,154.769,3,1,2000
+Do You Remember - Instrumental,Do You Remember (Originally Performed by Jay Sean featuring Sean Paul & Lil Jon),DJ Cover This,2010-01-19,211840,0,0.933,0.0269,0.526,0.00874,0.115,-5.38,0.0519,0.876,126.014,4,0,2000
+Party In The U.S.A.,The Time Of Our Lives,Miley Cyrus,2009-01-01,202066,75,0.652,0.00112,0.698,0.000115,0.0886,-4.667,0.042,0.47,96.021,4,2,2000
+I Gotta Feeling,THE E.N.D. (THE ENERGY NEVER DIES),Black Eyed Peas,2009-01-01,289133,74,0.743,0.0873,0.766,0.0,0.509,-6.375,0.0265,0.61,127.96,4,0,2000
+Need You Now,Need You Now,Lady A,2010-01-01,277573,70,0.587,0.0927,0.622,0.000636,0.2,-5.535,0.0303,0.231,107.943,4,1,2000
+BedRock - Karaoke / Instrumental,BedRock (Originally Performed by Young Money featuring Lloyd),DJ Cover This,2010-02-02,242000,0,0.935,0.0202,0.913,0.705,0.0573,-5.909,0.391,0.969,148.021,4,2,2000
+Hard (As Made Famous By Rihanna Featuring Young Jeezy),Drew's Famous # 1 Karaoke Hits: Sing like Rihanna,The Karaoke Crew,2011-02-01,275969,0,0.716,0.0469,0.614,1.79e-05,0.064,-8.924,0.0379,0.313,91.017,4,0,2000
+You Belong With Me,Fearless,Taylor Swift,2008-11-11,231133,72,0.687,0.162,0.783,1.35e-05,0.114,-4.44,0.0386,0.443,129.964,4,2,2000
+Use Somebody,Only By The Night,Kings of Leon,2008-09-23,230760,77,0.276,0.00552,0.715,0.000417,0.201,-5.356,0.0432,0.173,137.028,4,0,2000
+I Can Transform Ya (Made Famous by Chris Brown featuring Lil Wayne & Swizz Beatz),Super Summer Hits 2010,Summer Hit Superstars,2010-02-01,235546,0,0.575,0.164,0.786,0.0,0.0976,-9.363,0.54,0.933,167.341,4,2,2000
+Evacuate the Dancefloor - Radio Edit,Evacuate the Dancefloor,Cascada,2009-07-14,208360,15,0.748,0.0174,0.696,0.0,0.267,-5.975,0.0493,0.891,127.002,4,0,2000
+Fifteen,Fearless,Taylor Swift,2008-11-11,294333,63,0.556,0.067,0.651,0.0,0.145,-4.396,0.0266,0.203,95.485,4,1,2000
+Two Is Better Than One - Instrumental,Two Is Better Than One (Originally Performed by Boys Like Girls featuring Taylor Swift),DJ Cover This,2010-02-02,244226,0,0.596,0.468,0.527,0.962,0.106,-8.233,0.0278,0.187,128.005,4,2,2000
+Baby By Me (Featuring Ne-Yo),Before I Self-Destruct - The Selects,50 Cent,2009-01-01,213360,0,0.611,0.00399,0.831,0.00727,0.0266,-4.721,0.0959,0.353,190.061,4,2,2000
+Cowboy Casanova,Play On,Carrie Underwood,2009,236786,62,0.597,0.0328,0.82,0.0,0.119,-2.529,0.0582,0.576,119.969,4,2,2000
+Carry Out (Featuring Justin Timberlake),Shock Value II,Timbaland,2009-01-01,232466,66,0.531,0.114,0.574,0.0308,0.256,-6.693,0.113,0.272,115.68,5,1,2000
+Run This Town - A Tribute to Jay Z and Rihanna and Kanye West,Run This Town (A Tribute to Jay Z and Rihanna and Kanye West),Explosion Productions,2013-04-17,275356,0,0.455,0.81,0.519,0.0,0.0999,-10.146,0.185,0.493,84.781,4,1,2000
+Tie Me Down - Karaoke / Instrumental,Tie Me Down (Originally Performed by New Boyz featuring Ray J),DJ Cover This,2010-01-19,178040,0,0.363,0.0132,0.476,0.564,0.312,-10.552,0.0438,0.32,100.434,4,1,2000
+Gangsta Luv,Gangsta Love,Snoop Dogg,2009-01-01,257386,38,0.597,0.0209,0.7,0.0,0.0785,-5.449,0.284,0.376,102.013,4,2,2000
+Live Like We're Dying,Kris Allen,Kris Allen,2009-11-16,212506,53,0.589,0.0273,0.893,0.0,0.343,-2.948,0.0397,0.94,92.011,4,0,2000
+Do I,Doin' My Thing,Luke Bryan,2009-01-01,239413,63,0.581,0.257,0.691,0.0,0.11,-5.33,0.0333,0.299,137.985,4,0,2000
+Fallin' For You,Breakthrough (Deluxe Edition),Colbie Caillat,2009,215546,60,0.644,0.156,0.834,0.0,0.112,-6.473,0.0275,0.593,117.043,4,0,2000
+Consider Me Gone,Keep On Loving You,Reba McEntire,2009-01-01,218053,57,0.587,0.098,0.732,0.0,0.0917,-3.851,0.0296,0.453,97.031,4,2,2000
+One Time,My World,Justin Bieber,2009-01-01,215866,71,0.691,0.0631,0.853,7.13e-05,0.082,-2.528,0.0372,0.762,145.999,4,2,2000
+Spotlight,Jennifer Hudson,Jennifer Hudson,2008-09-30,250106,63,0.707,0.0448,0.724,0.0,0.072,-3.887,0.051,0.659,108.984,4,2,2000
+Russian Roulette,Rated R,Rihanna,2009-11-20,227533,66,0.48,0.046,0.486,0.0,0.107,-5.754,0.0447,0.265,80.051,4,1,2000
+"Hey, Soul Sister","Hey, Soul Sister",Train,2009-08-06,216666,1,0.675,0.217,0.885,0.0,0.086,-4.432,0.0436,0.768,97.03,4,0,2000
+Telephone - Karaoke / Instrumental,Telephone (Originally Performed by Lady GaGa Featuring Beyoncé),DJ Cover This,2010-01-12,220773,0,0.802,0.0348,0.518,0.923,0.125,-16.121,0.0528,0.603,122.007,4,2,2000
+If You Only Knew,The Sound of Madness,Shinedown,2008-06-24,226640,54,0.449,0.000347,0.956,0.0,0.325,-4.011,0.0398,0.321,97.011,4,0,2000
+The Truth,Wide Open,Jason Aldean,2009-04-07,238413,61,0.496,0.234,0.577,2.4e-06,0.109,-5.305,0.0257,0.381,143.014,4,0,2000
+White Liar (Instrumental),Instrumental Covers of Miranda Lambert,White Knight Instrumental,2017-12-31,20736,0,0.542,0.821,0.4,0.641,0.137,-8.338,0.102,0.913,100.043,4,2,2000
+Southern Voice,Southern Voice,Tim McGraw,2009-10-20,242426,38,0.63,0.0446,0.877,0.0,0.113,-4.106,0.0321,0.758,112.051,4,2,2000
+My Life Would Suck Without You,All I Ever Wanted,Kelly Clarkson,2009-03-06,211493,68,0.526,0.0014,0.882,0.0,0.144,-4.006,0.0509,0.424,144.982,4,2,2000
+I Wanna Make You Close Your Eyes,Feel That Fire,Dierks Bentley,2009-01-01,239119,45,0.599,0.104,0.61,4.83e-05,0.115,-5.745,0.0232,0.359,95.979,4,0,2000
+Don't Rain On My Parade (Glee Cast Version),"Glee: The Music, Volume 2",Glee Cast,2009-12-08,165493,57,0.483,0.598,0.691,0.0,0.0918,-5.223,0.0805,0.597,79.666,4,1,2000
+It Kills Me,The Bridge,Melanie Fiona,2009-01-01,250413,51,0.618,0.228,0.764,0.0,0.0972,-4.375,0.0411,0.479,107.452,4,2,2000
+According To You,Believe (II),Orianthi,2010-01-01,200346,54,0.619,0.0233,0.917,1.21e-05,0.0986,-2.582,0.0507,0.552,131.002,4,0,2000
+Try Sleeping with a Broken Heart,The Element Of Freedom,Alicia Keys,2009-12-15,249013,62,0.496,0.158,0.82,0.246,0.13,-5.155,0.112,0.549,110.977,5,0,2000
+Papers,Raymond v Raymond (Expanded Edition),Usher,2010-03-30,261413,46,0.802,0.0339,0.556,0.0,0.0958,-5.395,0.0418,0.158,120.047,4,2,2000
+Smile,Lonely Grill,Lonestar,1999,213760,36,0.467,0.234,0.492,0.0,0.113,-8.908,0.0295,0.156,74.945,4,1,2000
+Red Light,I'm About To Come Alive,David Nail,2009,246333,52,0.387,0.0917,0.804,1.98e-05,0.171,-2.601,0.0372,0.428,163.853,3,0,2000
+Crawl,Graffiti,Chris Brown,2009-12-08,236253,0,0.41,0.0416,0.743,0.0,0.113,-6.356,0.0591,0.417,176.048,4,2,2000
+Never Gonna Be Alone,Dark Horse,Nickelback,2008-10-28,227026,62,0.544,0.00155,0.802,7.34e-05,0.122,-4.152,0.0282,0.59,130.022,4,2,2000
+On Fire,The Hunger For More,Lloyd Banks,2004-01-01,187280,59,0.759,0.0923,0.825,0.00057,0.24,-4.289,0.22,0.429,94.857,4,2,2000
+In My Head,Jason Derulo,Jason Derulo,2010-02-24,199026,65,0.762,0.0266,0.748,0.0,0.348,-4.15,0.033,0.851,110.009,4,0,2000
+Life After You,Leave This Town,Daughtry,2009-07-14,206413,51,0.434,0.0534,0.764,0.0,0.437,-3.45,0.0299,0.309,51.316,4,2,2000
+Bonfire,That's Why,Craig Morgan,2008,179706,51,0.426,0.119,0.917,0.0,0.153,-2.968,0.103,0.506,175.716,4,0,2000
+Uprising,The Resistance,Muse,2009-09-10,304840,76,0.602,0.000202,0.905,0.064,0.117,-4.046,0.0775,0.411,128.019,4,2,2000
+Take Me As I Am,The Breakthrough,Mary J. Blige,2005-01-01,237493,45,0.599,0.0663,0.565,0.0,0.207,-4.663,0.0334,0.576,82.251,4,0,2000
+Wasted,Some Hearts,Carrie Underwood,2005-11-14,274266,52,0.548,0.0936,0.775,0.0,0.0721,-3.285,0.0306,0.311,94.998,4,2,2000
+Body Language - featuring T-Pain,Body Language - featuring T-Pain,Jesse McCartney & T-Pain,2009-01-01,221773,52,0.637,0.0625,0.701,0.0,0.175,-5.018,0.0412,0.466,161.476,4,0,2000
+History In The Making,Learn To Live,Darius Rucker,2008-01-01,209480,46,0.475,0.0373,0.718,0.0,0.326,-5.638,0.034,0.453,157.722,4,0,2000
+You Can't Always Get What You Want (Glee Cast Version),"Glee: The Music, Volume 2",Glee Cast,2009-12-08,207160,41,0.234,0.175,0.745,0.0,0.295,-6.017,0.0524,0.41,93.825,4,0,2000
+This Is War,This Is War,Thirty Seconds To Mars,2009-01-01,326983,68,0.402,0.0663,0.723,2e-06,0.233,-5.26,0.0579,0.224,160.047,4,0,2000
+One Less Lonely Girl,My World,Justin Bieber,2009-01-01,229106,69,0.58,0.159,0.75,0.0,0.274,-4.421,0.194,0.728,86.938,4,0,2000
+Haven't Met You Yet,Crazy Love,Michael Bublé,2009-10-06,244586,72,0.615,0.152,0.733,0.0,0.109,-4.808,0.0335,0.796,122.58,4,0,2000
+Why Don't We Just Dance,Haywire,Josh Turner,2010,192800,68,0.677,0.42,0.776,0.000689,0.0954,-5.933,0.0386,0.642,121.834,4,1,2000
+Someday - Remastered,The Best Of Sugar Ray,Sugar Ray,2005-06-17,243333,60,0.743,0.0108,0.67,0.0702,0.22,-4.547,0.0293,0.934,110.832,4,0,2000
+Eight Second Ride,Easy Does It,Jake Owen,2009-02-24,187320,58,0.645,0.104,0.843,0.0,0.249,-4.072,0.0475,0.534,92.357,3,0,2000
+Bad Habits - uncut,BLACKsummers'night (2009),Maxwell,2009-07-07,352280,48,0.661,0.0873,0.67,2.01e-06,0.0794,-7.645,0.258,0.661,148.02,4,2,2000
+All The Right Moves,Waking Up,OneRepublic,2009-01-01,238000,66,0.529,0.258,0.948,9.35e-06,0.283,-3.527,0.0474,0.65,146.024,4,0,2000
+I Wanna Rock,Malice 'N Wonderland,Snoop Dogg,2009-01-01,235986,41,0.521,0.168,0.849,0.0,0.289,-3.238,0.318,0.431,122.852,5,2,2000
+I Will Not Bow,Dear Agony,Breaking Benjamin,2009-01-01,216733,72,0.533,0.000165,0.955,1.36e-05,0.38,-3.708,0.0653,0.55,107.984,4,0,2000
+Kings And Queens,This Is War,Thirty Seconds To Mars,2009-01-01,347666,64,0.293,0.0401,0.817,3.4e-05,0.13,-5.432,0.0852,0.145,165.0,4,0,2000
+Break,Life Starts Now,Three Days Grace,2009-09-22,193106,66,0.578,0.000666,0.897,0.0,0.0924,-3.906,0.0357,0.737,115.491,4,0,2000
+That's How Country Boys Roll,Best Of,Billy Currington,2011-01-01,223840,45,0.674,0.0579,0.919,0.0,0.113,-2.987,0.0347,0.9,120.968,4,2,2000
+Gettin' You Home,The Man I Want To Be,Chris Young,2009-09-01,212133,65,0.639,0.44,0.678,1.45e-06,0.221,-5.02,0.0278,0.531,106.966,4,1,2000
+1901,Wolfgang Amadeus Phoenix,Phoenix,2009-01-01,193106,0,0.604,0.0564,0.825,5.8e-05,0.192,-5.373,0.0429,0.707,144.085,4,0,2000
+What I Do (In the Style of Chris Brown Featuring Plies) [Karaoke Version],What I Do (In the Style of Chris Brown and Plies) [Karaoke Version],Ameritz Karaoke Entertainment,2012-07-26,239975,0,0.632,0.00443,0.761,0.0,0.246,-10.383,0.0829,0.613,155.059,4,0,2000
+Last Christmas,"Glee: The Music, The Christmas Album",Glee Cast,2010-11-09,216626,42,0.631,0.00703,0.757,0.0,0.348,-6.005,0.0254,0.649,106.885,4,0,2000
+Then,American Saturday Night,Brad Paisley,2009-06-30,321640,64,0.493,0.512,0.643,2.42e-05,0.209,-5.19,0.0299,0.3,144.717,4,1,2000
+I Get It In,Best Of 50 Cent,50 Cent,2017-03-31,200106,0,0.68,0.0657,0.784,1.77e-05,0.302,-8.175,0.213,0.582,94.968,4,0,2000
+Breakeven,The Script,The Script,2008-09-08,261426,71,0.627,0.174,0.699,0.0,0.0789,-4.504,0.0244,0.535,94.003,4,0,2000
+And I Am Telling You I'm Not Going,Dreamgirls (Music from the Motion Picture) [Deluxe Edition],Various Artists,2006-12-04,305373,57,0.464,0.187,0.735,0.0,0.161,-5.202,0.0861,0.339,122.714,4,0,2000
+Video Phone (feat. Lady Gaga),I AM...SASHA FIERCE THE BONUS TRACKS,Beyoncé,2009-11-20,304693,53,0.32,0.00203,0.782,0.000851,0.39,-7.37,0.374,0.527,78.05,4,2,2000
+Halfway Gone,Smoke & Mirrors (Deluxe),Lifehouse,2010,195306,53,0.543,0.000449,0.919,0.0,0.243,-4.831,0.0415,0.498,125.023,4,0,2000
+Twang,Twang,George Strait,2009-01-01,175600,37,0.561,0.279,0.956,6.83e-06,0.0801,-3.331,0.0799,0.78,158.621,4,0,2000
+Toes,The Foundation,Zac Brown Band,2008-11-17,262773,18,0.8,0.655,0.759,0.0,0.0897,-5.398,0.0378,0.821,129.979,4,2,2000
+Morning After Dark (Featuring Nelly Furtado & SoShy),Shock Value II (Deluxe),Timbaland,2009-01-01,231960,33,0.734,0.076,0.927,0.00134,0.0465,-4.244,0.042,0.901,118.039,4,2,2000
+Who I Am,Who I Am,Jessica Andrews,2001,255233,0,0.419,0.0125,0.671,0.0,0.115,-5.364,0.0312,0.311,83.908,4,0,2000
+Happy,Ashanti,Ashanti,2002-01-01,262226,64,0.727,0.241,0.515,3.74e-06,0.124,-6.553,0.0289,0.695,89.488,4,0,2000
+So What,Funhouse,P!nk,2008-10-24,215160,0,0.535,0.000304,0.886,2.26e-06,0.257,-3.106,0.045,0.445,126.012,4,2,2000
+Who Says,Battle Studies,John Mayer,2009-11-13,175480,66,0.584,0.267,0.509,0.00252,0.36,-13.109,0.0287,0.367,90.457,4,1,2000
+Wheels,Greatest Hits,Foo Fighters,2009-11-03,278213,62,0.426,0.000495,0.792,5.1e-06,0.142,-4.709,0.0374,0.557,161.994,4,0,2000
+All I Ask For Anymore,Definitive Greatest Hits,Trace Adkins,2010-01-01,237213,26,0.49,0.133,0.443,1.98e-05,0.0902,-6.493,0.029,0.279,129.786,4,1,2000
+If We Ever Meet Again (Featuring Katy Perry),Shock Value II,Timbaland,2009-01-01,292706,67,0.652,0.00481,0.605,0.0,0.0605,-7.371,0.0393,0.394,126.091,4,0,2000
+Regret - GL Remix,Regret (Remix),LeToya,2010-01-01,242613,4,0.526,0.0421,0.872,0.0,0.0675,-4.679,0.306,0.52,90.071,4,2,2000
+Uptown Funk (feat. Bruno Mars),Uptown Special,Mark Ronson,2015-01-12,269666,83,0.856,0.00801,0.609,8.15e-05,0.0344,-7.223,0.0824,0.928,114.988,4,2,2010
+Party Rock Anthem,Sorry For Party Rocking,LMFAO,2011-01-01,262146,73,0.751,0.0206,0.736,0.0,0.265,-4.168,0.156,0.352,130.014,4,2,2010
+Shape of You,÷ (Deluxe),Ed Sheeran,2017-03-03,233712,86,0.825,0.581,0.652,0.0,0.0931,-3.183,0.0802,0.931,95.977,4,2,2010
+Closer,Closer,The Chainsmokers,2016-07-29,244960,86,0.748,0.414,0.524,0.0,0.111,-5.599,0.0338,0.661,95.01,4,0,2010
+Girls Like You (feat. Cardi B),Red Pill Blues (Deluxe),Maroon 5,2018-06-15,235545,76,0.851,0.568,0.541,0.0,0.13,-6.825,0.0505,0.448,124.959,4,1,2010
+We Found Love,Talk That Talk,Rihanna,2011-11-18,215226,76,0.734,0.025,0.766,0.00138,0.108,-4.485,0.0383,0.6,127.986,4,2,2010
+Old Town Road - Remix,7 EP,Lil Nas X,2019-06-21,157066,83,0.878,0.0533,0.619,0.0,0.113,-5.56,0.102,0.639,136.041,4,0,2010
+Somebody That I Used To Know,Making Mirrors,Gotye,2011-01-01,244884,81,0.865,0.548,0.521,0.000115,0.0989,-6.932,0.0371,0.748,129.059,4,1,2010
+Despacito - Remix,Despacito Feat. Justin Bieber (Remix),Luis Fonsi,2017-04-17,228826,74,0.653,0.228,0.816,0.0,0.0967,-4.353,0.167,0.816,178.085,4,0,2010
+Rolling in the Deep,21,Adele,2011-01-19,228093,30,0.73,0.138,0.77,0.0,0.0473,-5.114,0.0298,0.507,104.948,4,2,2010
+Sunflower - Spider-Man: Into the Spider-Verse,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Various Artists,2018-12-14,158040,84,0.76,0.556,0.479,0.0,0.0703,-5.574,0.0466,0.913,89.911,4,2,2010
+Without Me,Without Me,Halsey,2018-10-04,201660,82,0.752,0.297,0.488,9.11e-06,0.0936,-7.05,0.0705,0.533,136.041,4,0,2010
+Call Me Maybe,Kiss,Carly Rae Jepsen,2012-01-01,193400,79,0.783,0.0114,0.58,2.28e-06,0.108,-6.548,0.0408,0.66,120.021,4,0,2010
+Blurred Lines,Blurred Lines (Deluxe),Robin Thicke,2013-01-01,263826,76,0.853,0.00334,0.599,7.93e-06,0.0759,-4.756,0.0411,0.843,119.993,4,0,2010
+Perfect,÷ (Deluxe),Ed Sheeran,2017-03-03,263400,87,0.599,0.163,0.448,0.0,0.106,-6.312,0.0232,0.168,95.05,3,1,2010
+SICKO MODE,ASTROWORLD,Travis Scott,2018-08-03,312820,86,0.834,0.00513,0.73,0.0,0.124,-3.714,0.222,0.446,155.008,4,2,2010
+All About That Bass,Title (Deluxe),Meghan Trainor,2015-01-09,187920,73,0.807,0.0573,0.887,2.87e-06,0.124,-3.726,0.0503,0.961,134.052,4,2,2010
+Royals,Pure Heroine,Lorde,2013-09-27,190185,77,0.674,0.121,0.428,0.0,0.132,-9.504,0.122,0.337,84.878,4,2,2010
+God's Plan,Scorpion,Drake,2018-06-29,198973,84,0.754,0.0332,0.449,8.29e-05,0.552,-9.211,0.109,0.357,77.169,4,2,2010
+Moves Like Jagger,Singles,Maroon 5,2015-09-25,202640,67,0.72,0.0113,0.751,0.0,0.353,-4.484,0.0462,0.599,128.017,4,2,2010
+"Happy - From ""Despicable Me 2""",G I R L,Pharrell Williams,2014-03-03,232720,81,0.647,0.219,0.822,0.0,0.0908,-4.662,0.183,0.962,160.019,4,2,2010
+Just the Way You Are,Doo-Wops & Hooligans,Bruno Mars,2010-10-05,220733,80,0.637,0.0151,0.843,0.0,0.0876,-5.413,0.0432,0.434,109.012,4,2,2010
+rockstar (feat. 21 Savage),beerbongs & bentleys,Post Malone,2018-04-27,218146,85,0.585,0.124,0.52,7.01e-05,0.131,-6.136,0.0712,0.129,159.801,4,1,2010
+TiK ToK,Animal (Expanded Edition),Kesha,2010-01-01,199693,82,0.755,0.0991,0.837,0.0,0.289,-2.718,0.142,0.714,120.028,4,0,2010
+See You Again (feat. Charlie Puth),See You Again (feat. Charlie Puth),Wiz Khalifa,2015,229525,82,0.689,0.369,0.481,1.03e-06,0.0649,-7.503,0.0815,0.283,80.025,4,1,2010
+Dark Horse,PRISM (Deluxe),Katy Perry,2013-10-18,215672,77,0.645,0.00314,0.585,0.0,0.165,-6.122,0.0513,0.353,131.931,4,2,2010
+Thrift Shop (feat. Wanz),The Heist,Macklemore & Ryan Lewis,2012-10-10,235613,38,0.781,0.0619,0.526,0.0,0.0457,-6.985,0.293,0.662,94.992,4,2,2010
+One More Night,Overexposed Track By Track,Maroon 5,2012-01-01,219546,74,0.716,0.0558,0.821,0.0,0.0844,-3.435,0.0314,0.618,92.997,4,0,2010
+We Are Young (feat. Janelle Monáe),Some Nights,fun.,2012-02-14,250626,77,0.378,0.02,0.638,7.66e-05,0.0849,-5.576,0.075,0.735,184.086,4,0,2010
+That's What I Like,24K Magic,Bruno Mars,2016-11-17,206693,84,0.853,0.013,0.56,0.0,0.0944,-4.961,0.0406,0.86,134.066,4,0,2010
+The Hills,Beauty Behind The Madness,The Weeknd,2015-08-28,242253,87,0.585,0.0671,0.564,0.0,0.135,-7.063,0.0515,0.137,113.003,4,1,2010
+All of Me,Love In The Future (Expanded Edition),John Legend,2013-08-30,269560,87,0.422,0.922,0.264,0.0,0.132,-7.064,0.0322,0.331,119.93,4,1,2010
+Happier,Happier,Marshmello,2018-08-17,214289,85,0.687,0.191,0.792,0.0,0.167,-2.749,0.0452,0.671,100.015,4,2,2010
+Shake It Off,1989 (Deluxe),Taylor Swift,2014-01-01,219200,79,0.647,0.0647,0.8,0.0,0.334,-5.384,0.165,0.942,160.078,4,0,2010
+One Dance,Views,Drake,2016-05-06,173986,83,0.792,0.00776,0.625,0.0018,0.329,-5.609,0.0536,0.37,103.967,4,2,2010
+Radioactive,Night Visions,Imagine Dragons,2012-09-04,186813,78,0.448,0.106,0.784,0.000108,0.668,-3.686,0.0627,0.236,136.245,4,0,2010
+Sexy And I Know It,Sorry For Party Rocking,LMFAO,2011-01-01,199480,69,0.707,0.1,0.861,0.0,0.191,-4.225,0.316,0.795,130.021,4,0,2010
+Someone Like You,21,Adele,2011-01-19,285240,34,0.554,0.893,0.321,0.0,0.0996,-8.251,0.028,0.288,135.047,4,1,2010
+Counting Stars,Native,OneRepublic,2013-01-01,257266,83,0.664,0.0654,0.705,0.0,0.118,-4.972,0.0382,0.477,122.016,4,2,2010
+E.T.,Katy Perry - Teenage Dream: The Complete Confection,Katy Perry,2012-03-12,229573,66,0.62,0.0181,0.869,0.0,0.369,-5.252,0.175,0.76,151.684,4,0,2010
+Trap Queen,Fetty Wap (Deluxe),Fetty Wap,2015-09-25,222093,75,0.746,0.0244,0.873,0.0,0.354,-3.803,0.128,0.817,148.075,4,0,2010
+Love Yourself,Purpose (Deluxe),Justin Bieber,2015-11-13,233720,83,0.609,0.835,0.378,0.0,0.28,-9.828,0.438,0.515,100.418,4,1,2010
+Firework,Katy Perry - Teenage Dream: The Complete Confection,Katy Perry,2012-03-12,227880,75,0.638,0.139,0.826,0.0,0.0803,-4.968,0.0479,0.649,124.072,4,0,2010
+"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",Planet Pit (Deluxe Version),Pitbull,2011-06-17,252306,82,0.671,0.191,0.939,0.0,0.298,-3.206,0.161,0.53,129.024,4,2,2010
+Locked out of Heaven,Unorthodox Jukebox,Bruno Mars,2012-12-07,233478,84,0.726,0.049,0.698,0.0,0.309,-4.165,0.0431,0.867,143.994,4,0,2010
+Love The Way You Lie,Recovery,Eminem,2010-06-18,263373,83,0.749,0.241,0.925,0.0,0.52,-5.034,0.227,0.641,86.989,4,0,2010
+Thinking out Loud,x (Deluxe Edition),Ed Sheeran,2014-06-21,281560,84,0.781,0.474,0.445,0.0,0.184,-6.061,0.0295,0.591,78.998,4,1,2010
+Sorry,Purpose (Deluxe),Justin Bieber,2015-11-13,200786,81,0.654,0.0797,0.76,0.0,0.299,-3.669,0.045,0.41,99.945,4,2,2010
+California Gurls,Teenage Dream,Katy Perry,2010-08-24,234653,65,0.788,0.0038,0.753,0.0,0.18,-3.71,0.0536,0.403,125.005,4,0,2010
+Dynamite,The Rokstarr Hits Collection,Taio Cruz,2010-01-01,202613,80,0.751,0.00379,0.783,0.0,0.036,-3.724,0.0859,0.816,119.975,4,0,2010
+Lucid Dreams,Goodbye & Good Riddance,Juice WRLD,2018-12-10,239835,88,0.511,0.349,0.566,0.0,0.34,-7.23,0.2,0.218,83.903,4,1,2010
+Hello,25,Adele,2015-11-20,295502,27,0.47,0.329,0.431,0.0,0.0854,-6.129,0.0342,0.289,157.98,4,1,2010
+Work,ANTI (Deluxe),Rihanna,2016-01-28,219320,78,0.725,0.0752,0.534,0.0,0.0919,-6.238,0.0946,0.558,91.974,4,0,2010
+Grenade,Doo-Wops & Hooligans,Bruno Mars,2010-10-05,223253,78,0.706,0.146,0.558,0.0,0.118,-7.237,0.0593,0.227,110.443,4,2,2010
+"Hey, Soul Sister","Save Me, San Francisco (Golden Gate Edition)",Train,2010-12-01,216773,84,0.673,0.185,0.886,0.0,0.0826,-4.44,0.0431,0.795,97.012,4,0,2010
+I Like It,Invasion of Privacy,Cardi B,2018-04-06,253390,83,0.816,0.099,0.726,0.0,0.372,-3.998,0.129,0.65,136.048,4,0,2010
+Wake Me Up,True,Avicii,2013-09-13,247426,27,0.532,0.0038,0.783,0.0012,0.161,-5.697,0.0523,0.643,124.08,4,0,2010
+Don't Let Me Down,Don't Let Me Down,The Chainsmokers,2016-02-05,208373,80,0.532,0.157,0.869,0.00508,0.136,-5.094,0.172,0.422,159.803,4,2,2010
+Havana (feat. Young Thug),Camila,Camila Cabello,2018-01-12,217306,82,0.765,0.184,0.523,3.56e-05,0.132,-4.333,0.03,0.394,104.988,4,0,2010
+OMG (feat. will.i.am),Raymond v Raymond (Expanded Edition),Usher,2010-03-30,269493,73,0.781,0.198,0.745,1.14e-05,0.36,-5.81,0.0332,0.326,129.998,4,2,2010
+bad guy,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2019-03-29,194087,88,0.701,0.328,0.425,0.13,0.1,-10.965,0.375,0.562,135.128,4,1,2010
+Fancy,The New Classic (Deluxe Version),Iggy Azalea,2014-01-01,199938,72,0.912,0.0904,0.716,0.0,0.0491,-4.141,0.0697,0.377,94.981,4,2,2010
+Can't Feel My Face,Beauty Behind The Madness,The Weeknd,2015-08-28,213520,82,0.705,0.113,0.769,0.0,0.105,-5.526,0.0425,0.583,107.949,4,2,2010
+Wow.,Hollywood's Bleeding,Post Malone,2019-09-06,149546,83,0.829,0.136,0.539,1.78e-06,0.103,-7.359,0.208,0.388,99.96,4,2,2010
+Blank Space,1989 (Deluxe),Taylor Swift,2014-01-01,231826,81,0.76,0.103,0.703,0.0,0.0913,-5.412,0.054,0.57,95.997,4,0,2010
+Cheap Thrills (feat. Sean Paul),This Is Acting,Sia,2016-02-18,224813,66,0.592,0.0561,0.8,2.01e-06,0.0775,-4.931,0.215,0.728,89.972,4,2,2010
+Some Nights,Some Nights,fun.,2012-02-14,277040,72,0.672,0.0178,0.738,6.75e-05,0.0927,-7.045,0.0506,0.392,107.938,4,2,2010
+Need You Now,Need You Now,Lady A,2010-01-01,236440,73,0.581,0.0298,0.717,0.000186,0.243,-4.433,0.0318,0.316,107.884,4,2,2010
+7 rings,"thank u, next",Ariana Grande,2019-02-08,178626,86,0.778,0.592,0.317,0.0,0.0881,-10.732,0.334,0.327,140.048,4,1,2010
+Stay With Me,In The Lonely Hour,Sam Smith,2014-05-26,172723,82,0.418,0.588,0.42,6.39e-05,0.11,-6.444,0.0414,0.184,84.094,4,1,2010
+Can't Hold Us - feat. Ray Dalton,The Heist,Macklemore & Ryan Lewis,2012-10-09,258342,85,0.641,0.0291,0.922,0.0,0.0862,-4.457,0.0786,0.847,146.078,4,0,2010
+Better Now,beerbongs & bentleys,Post Malone,2018-04-27,231266,84,0.68,0.331,0.578,0.0,0.135,-5.804,0.04,0.341,145.038,4,1,2010
+Roar,PRISM (Deluxe),Katy Perry,2013-10-18,223546,76,0.554,0.00487,0.772,6.6e-06,0.354,-4.821,0.0418,0.455,179.984,4,2,2010
+Rude,Don't Kill the Magic,MAGIC!,2014-06-25,224840,81,0.774,0.0423,0.756,0.0,0.305,-4.995,0.0389,0.931,144.032,4,0,2010
+"thank u, next","thank u, next",Ariana Grande,2019-02-08,207320,84,0.717,0.229,0.653,0.0,0.101,-5.634,0.0658,0.412,106.966,4,2,2010
+Sugar,V,Maroon 5,2014-09-02,235493,82,0.748,0.0591,0.788,0.0,0.0863,-7.055,0.0334,0.884,120.076,4,0,2010
+Payphone,Overexposed Track By Track,Maroon 5,2012-01-01,231173,82,0.743,0.0188,0.752,0.0,0.287,-4.813,0.0414,0.545,110.015,4,0,2010
+Airplanes (feat. Hayley Williams of Paramore),B.o.B Presents: The Adventures of Bobby Ray,B.o.B,2010-04-27,180480,77,0.66,0.11,0.867,0.0,0.0368,-4.285,0.116,0.377,93.033,4,2,2010
+Psycho (feat. Ty Dolla $ign),beerbongs & bentleys,Post Malone,2018-04-27,221440,81,0.75,0.546,0.56,0.0,0.111,-8.094,0.105,0.459,140.06,4,1,2010
+Bodak Yellow,Invasion of Privacy,Cardi B,2018-04-06,223712,77,0.926,0.0659,0.703,0.0,0.231,-6.337,0.103,0.485,125.022,4,2,2010
+Watch Me (Whip / Nae Nae),Watch Me (Whip / Nae Nae),Silentó,2015-05-04,185142,67,0.821,0.247,0.759,0.0,0.321,-8.541,0.121,0.962,140.01,4,2,2010
+"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")","CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,2016-05-06,236001,78,0.667,0.0123,0.83,0.0,0.191,-5.715,0.0749,0.701,113.03,4,2,2010
+Cheerleader - Felix Jaehn Remix Radio Edit,Me 4 U,OMI,2015-10-16,180565,77,0.782,0.166,0.685,1.18e-05,0.16,-6.237,0.0309,0.603,118.016,4,0,2010
+Bad Romance,The Fame Monster (Deluxe Edition),Lady Gaga,2009-11-05,294573,82,0.696,0.00314,0.921,5.24e-05,0.0842,-3.755,0.0363,0.714,119.001,4,2,2010
+Stronger (What Doesn't Kill You),Stronger (Deluxe Version),Kelly Clarkson,2011-10-24,221946,76,0.562,0.046,0.939,0.0,0.112,-4.282,0.0475,0.684,116.044,4,0,2010
+What Do You Mean?,Purpose (Deluxe),Justin Bieber,2015-11-13,205680,78,0.845,0.59,0.567,0.00142,0.0811,-8.118,0.0956,0.793,125.02,4,1,2010
+Nice For What,Scorpion,Drake,2018-06-29,210746,79,0.585,0.0891,0.909,9.7e-05,0.119,-6.474,0.0707,0.758,93.372,4,0,2010
+Sucker,Sucker,Jonas Brothers,2019-03-01,181040,12,0.842,0.0427,0.734,0.0,0.106,-5.065,0.0588,0.952,137.958,4,0,2010
+Meant to Be (feat. Florida Georgia Line),All Your Fault: Pt. 2,Bebe Rexha,2017-08-11,163870,79,0.643,0.047,0.783,0.0,0.083,-6.458,0.0856,0.579,154.084,4,2,2010
+Timber (feat. Ke$ha),Global Warming: Meltdown (Deluxe Version),Pitbull,2012,204160,81,0.581,0.0295,0.963,0.0,0.139,-4.087,0.0981,0.788,129.992,4,0,2010
+Take Me To Church,Hozier,Hozier,2014-07-20,241688,84,0.566,0.634,0.664,0.0,0.116,-5.303,0.0464,0.437,128.945,4,1,2010
+Hotline Bling,Views,Drake,2016-05-06,267066,78,0.891,0.00258,0.628,0.00019,0.0504,-7.863,0.0551,0.552,134.966,4,2,2010
+Heathens,Heathens,Twenty One Pilots,2016-06-16,195920,82,0.732,0.0841,0.396,3.58e-05,0.105,-9.348,0.0286,0.548,90.024,4,1,2010
+Super Bass,Pink Friday,Nicki Minaj,2010-01-01,200013,23,0.72,0.269,0.861,5.11e-06,0.601,-4.339,0.209,0.669,126.991,4,0,2010
+Fuck You,The Lady Killer (Deluxe),CeeLo Green,2010-11-09,223694,65,0.693,0.193,0.879,0.0,0.124,-3.988,0.0578,0.753,127.457,4,2,2010
+Panda,New English,Desiigner,2016-06-26,246761,75,0.576,0.028,0.766,1.68e-06,0.366,-4.943,0.449,0.236,144.833,4,2,2010
+Break Your Heart,The Rokstarr Hits Collection,Taio Cruz,2010-01-01,201546,74,0.607,0.0327,0.934,0.0,0.0909,-4.217,0.0314,0.568,122.01,4,0,2010
+In My Feelings,Scorpion,Drake,2018-06-29,217925,79,0.835,0.0589,0.626,6e-05,0.396,-5.833,0.125,0.35,91.03,4,2,2010
+Wrecking Ball,Bangerz (Deluxe Version),Miley Cyrus,2013-10-04,221360,77,0.53,0.407,0.422,0.0,0.107,-6.262,0.0342,0.349,119.964,4,1,2010
+Ho Hey,The Lumineers (Deluxe Edition),The Lumineers,2012,163133,76,0.682,0.765,0.471,0.0,0.0908,-9.182,0.0301,0.421,79.907,4,1,2010
